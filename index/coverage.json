@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-06T10:42:43Z",
+ "as_of": "2026-09-07T09:04:54Z",
  "totals": {
   "known": 2154,
   "resolved": 1967,
@@ -62,10 +62,10 @@
    }
   },
   "insider/ntoskrnl.exe": {
-   "known": 421,
-   "downloadable": 421,
+   "known": 411,
+   "downloadable": 411,
    "channels": {
-    "builds": 421
+    "builds": 411
    }
   }
  },
@@ -90,8 +90,8 @@
   "11-23H2": {
    "resolved": 27,
    "known": 29,
-   "missing": 2,
-   "unattempted": 0
+   "missing": 1,
+   "unattempted": 1
   },
   "11-24H2": {
    "resolved": 111,
@@ -108,8 +108,8 @@
   "11-26H1": {
    "resolved": 25,
    "known": 28,
-   "missing": 1,
-   "unattempted": 2
+   "missing": 0,
+   "unattempted": 3
   },
   "1507": {
    "resolved": 119,
@@ -150,8 +150,8 @@
   "1809": {
    "resolved": 266,
    "known": 290,
-   "missing": 24,
-   "unattempted": 0
+   "missing": 23,
+   "unattempted": 1
   },
   "1903": {
    "resolved": 74,
@@ -197,9 +197,9 @@
   },
   "builds": {
    "resolved": 331,
-   "known": 421,
-   "missing": 87,
-   "unattempted": 3
+   "known": 411,
+   "missing": 90,
+   "unattempted": 0
   }
  }
 }
