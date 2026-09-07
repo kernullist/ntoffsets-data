@@ -1,0 +1,1 @@
+{"name":"_CMSI_RW_LOCK","kind":"type","size":8,"members":[{"name":"Reserved","type":"void *","offset":0,"size":8,"bit_position":0,"bit_count":0}]}

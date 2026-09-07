@@ -1,0 +1,1 @@
+{"name":"_MI_FILE_EXTENT_TYPES","kind":"enum","size":4,"constants":[{"name":"MiExtentCopyImage","value":0},{"name":"MiExtentCopyData","value":1},{"name":"MiExtentCopyMaximum","value":2}]}

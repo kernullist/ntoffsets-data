@@ -1,0 +1,1 @@
+{"name":"_CC_LWS_PACKET_TYPE","kind":"enum","size":4,"constants":[{"name":"LWSPacket_Invalid","value":0},{"name":"LWSPacket_Partition","value":1},{"name":"LWSPacket_PrivateVCM","value":2},{"name":"LWSPacket_Max","value":3}]}

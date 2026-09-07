@@ -1,0 +1,1 @@
+{"name":"_KCLOCK_TIMER_ONE_SHOT_STATE","kind":"enum","size":4,"constants":[{"name":"KClockTimerOneShotUnarmed","value":0},{"name":"KClockTimerOneShotArmed","value":1},{"name":"KClockTimerOneShotRearmRequired","value":2},{"name":"KClockTimerOneShotInvalid","value":3}]}

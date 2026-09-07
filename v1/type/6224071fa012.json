@@ -1,0 +1,1 @@
+{"name":"_BOOT_ENTROPY_SOURCE_RESULT_CODE","kind":"enum","size":4,"constants":[{"name":"BootEntropySourceStructureUninitialized","value":0},{"name":"BootEntropySourceDisabledByPolicy","value":1},{"name":"BootEntropySourceNotPresent","value":2},{"name":"BootEntropySourceError","value":3},{"name":"BootEntropySourceSuccess","value":4}]}

@@ -1,0 +1,1 @@
+{"name":"_NUMA_MEMORY_RANGE","kind":"type","size":24,"members":[{"name":"ProximityId","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"BasePage","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0},{"name":"EndPage","type":"unsigned __int64","offset":16,"size":8,"bit_position":0,"bit_count":0}]}

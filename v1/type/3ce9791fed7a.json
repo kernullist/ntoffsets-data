@@ -1,0 +1,1 @@
+{"name":"_POP_PEP_NOTIFY_DEVICE_DSTATE_REASON","kind":"enum","size":4,"constants":[{"name":"PepNotifyDeviceDStateReasonNone","value":0},{"name":"PepNotifyDeviceDStateReasonSystemTransition","value":1},{"name":"PepNotifyDeviceDStateReasonDfx","value":2},{"name":"PepNotifyDeviceDStateReasonMax","value":3}]}

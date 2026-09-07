@@ -1,0 +1,1 @@
+{"name":"tagSWITCH_CONTEXT","kind":"type","size":104,"members":[{"name":"Attribute","type":"tagSWITCH_CONTEXT_ATTRIBUTE","offset":0,"size":24,"bit_position":0,"bit_count":0},{"name":"Data","type":"tagSWITCH_CONTEXT_DATA","offset":24,"size":80,"bit_position":0,"bit_count":0}]}

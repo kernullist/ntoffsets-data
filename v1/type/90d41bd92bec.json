@@ -1,0 +1,1 @@
+{"name":"_PS_TRUSTLET_ATTRIBUTE_DATA","kind":"type","size":16,"members":[{"name":"Header","type":"_PS_TRUSTLET_ATTRIBUTE_HEADER","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Data","type":"unsigned __int64[1]","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_INVPCID_TYPE","kind":"enum","size":4,"constants":[{"name":"InvpcidIndividualAddress","value":0},{"name":"InvpcidSingleContext","value":1},{"name":"InvpcidAllContextAndGlobals","value":2},{"name":"InvpcidAllContext","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_MMWSL_FULL","kind":"type","size":512,"members":[{"name":"Instance","type":"_MMWSL_INSTANCE","offset":0,"size":416,"bit_position":0,"bit_count":0},{"name":"Shared","type":"_MMWSL_SHARED","offset":416,"size":96,"bit_position":0,"bit_count":0}]}

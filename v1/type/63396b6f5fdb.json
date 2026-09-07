@@ -1,0 +1,1 @@
+{"name":"_KSTATIC_AFFINITY_BLOCK","kind":"type","size":40,"members":[{"name":"Affinities","type":"_KAFFINITY_EX *[5]","offset":0,"size":40,"bit_position":0,"bit_count":0}]}

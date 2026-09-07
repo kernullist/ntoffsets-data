@@ -1,0 +1,1 @@
+{"name":"_MI_WRITE_MODES","kind":"type","size":16,"members":[{"name":"WriteType","type":"unsigned __int64[2]","offset":0,"size":16,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_ASYNC_READ_THREAD_STATS","kind":"type","size":404,"members":[{"name":"CurrentLoad","type":"unsigned long[101]","offset":0,"size":404,"bit_position":0,"bit_count":0}]}

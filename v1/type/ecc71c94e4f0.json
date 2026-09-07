@@ -1,0 +1,1 @@
+{"name":"_BOOT_LAYER_TYPE","kind":"enum","size":4,"constants":[{"name":"BOOT_LAYER_BLOCK_IO","value":1},{"name":"BOOT_LAYER_CIMFS","value":2},{"name":"BOOT_LAYER_COMPOSITE","value":3},{"name":"BOOT_LAYER_VSMB","value":4},{"name":"BOOT_LAYER_VHD","value":5},{"name":"BOOT_LAYER_RAMDISK","value":6}]}

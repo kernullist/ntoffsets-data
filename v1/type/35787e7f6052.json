@@ -1,0 +1,1 @@
+{"name":"_EVENT_TYPE","kind":"enum","size":4,"constants":[{"name":"NotificationEvent","value":0},{"name":"SynchronizationEvent","value":1}]}

@@ -1,0 +1,1 @@
+{"name":"RTLP_CSPARSE_BITMAP_STATE","kind":"enum","size":4,"constants":[{"name":"CommitBitmapInvalid","value":0},{"name":"UserBitmapInvalid","value":1},{"name":"UserBitmapValid","value":2}]}

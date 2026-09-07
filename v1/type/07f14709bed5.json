@@ -1,0 +1,1 @@
+{"name":"Change","kind":"type","size":8,"members":[{"name":"kind","type":"wil_details_ServiceReportingKind","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"count","type":"unsigned int","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

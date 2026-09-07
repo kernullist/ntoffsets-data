@@ -1,0 +1,1 @@
+{"name":"_MI_PAGE_MOVE_IN_PROGRESS_TYPES","kind":"enum","size":4,"constants":[{"name":"MiPageMoveInProgressHuge","value":0},{"name":"MiPageMoveInProgressLarge","value":1},{"name":"MiPageMoveInProgress64K","value":2},{"name":"MiPageMoveInProgressSmall","value":3},{"name":"MiPageMoveInProgressHugeRange","value":4},{"name":"MiPageMoveInProgressMaximum","value":5}]}

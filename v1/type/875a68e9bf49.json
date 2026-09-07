@@ -1,0 +1,1 @@
+{"name":"_RTL_FEATURE_USAGE_PROVIDER_CALLBACK_TYPE","kind":"enum","size":4,"constants":[{"name":"FeatureUsageProviderCallbackDefault","value":0},{"name":"FeatureUsageProviderCallBackUsageFlushNotification","value":1}]}

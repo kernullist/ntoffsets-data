@@ -1,0 +1,1 @@
+{"name":"_MI_ALTERNATE_LOCK_VA_TYPE","kind":"enum","size":4,"constants":[{"name":"AlternateLockVaTypeSystemPtes","value":0},{"name":"AlternateLockVaTypeNonPagedPool","value":1},{"name":"AlternateLockVaTypeUser","value":2},{"name":"AlternateLockVaTypeSystem","value":3},{"name":"AlternateLockVaTypeMaximum","value":4}]}

@@ -1,0 +1,1 @@
+{"name":"wil_details_ServiceReportingOptions","kind":"enum","size":4,"constants":[{"name":"wil_details_ServiceReportingOptions_None","value":0},{"name":"wil_details_ServiceReportingOptions_VariantConfig","value":1}]}

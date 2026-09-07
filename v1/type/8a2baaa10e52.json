@@ -1,0 +1,1 @@
+{"name":"_MI_DYNAMICBASE_BITMAP","kind":"enum","size":4,"constants":[{"name":"DynamicBaseBitMapNative","value":0},{"name":"DynamicBaseBitMap64LowWow","value":1},{"name":"DynamicBaseBitMap32WowFirst","value":2},{"name":"DynamicBaseBitMap32WowLast","value":3},{"name":"DynamicBaseBitMapInvalid","value":4},{"name":"DynamicBaseBitMapMax","value":4}]}

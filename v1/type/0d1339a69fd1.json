@@ -1,0 +1,1 @@
+{"name":"_TlgBlob_t","kind":"enum","size":4,"constants":[{"name":"_TlgBlobNone","value":0},{"name":"_TlgBlobEnd","value":1},{"name":"_TlgBlobProvider","value":2},{"name":"_TlgBlobEvent3","value":3},{"name":"_TlgBlobProvider3","value":4},{"name":"_TlgBlobEvent2","value":5},{"name":"_TlgBlobMax","value":6}]}

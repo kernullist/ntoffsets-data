@@ -1,0 +1,1 @@
+{"name":"_PPM_RESTRICTION_STATE","kind":"enum","size":4,"constants":[{"name":"PpmRestrictionUninit","value":0},{"name":"PpmRestrictionInitFailed","value":1},{"name":"PpmRestrictionDisabled","value":2},{"name":"PpmRestrictionEnabled","value":3}]}

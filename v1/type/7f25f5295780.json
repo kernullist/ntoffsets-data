@@ -1,0 +1,1 @@
+{"name":"CVariant_InPlaceUpdate","kind":"enum","size":4,"constants":[{"name":"CVariant_InPlaceUpdate_None","value":0},{"name":"CVariant_InPlaceUpdate_InPlaceUpdate","value":1}]}

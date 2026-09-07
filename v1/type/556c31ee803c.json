@@ -1,0 +1,1 @@
+{"name":"_POOL_HACKER","kind":"type","size":48,"members":[{"name":"Header","type":"_POOL_HEADER","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"Contents","type":"unsigned long[8]","offset":16,"size":32,"bit_position":0,"bit_count":0}]}

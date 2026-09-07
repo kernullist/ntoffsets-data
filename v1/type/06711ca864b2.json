@@ -1,0 +1,1 @@
+{"name":"_HAL_PROCESSOR_STAT_TYPE","kind":"enum","size":4,"constants":[{"name":"HalProcessorStatResidency","value":0},{"name":"HalProcessorStatCount","value":1},{"name":"HalProcessorStatMax","value":2}]}

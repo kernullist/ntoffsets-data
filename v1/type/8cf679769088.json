@@ -1,0 +1,1 @@
+{"name":"_CONFIGURATION_CLASS","kind":"enum","size":4,"constants":[{"name":"SystemClass","value":0},{"name":"ProcessorClass","value":1},{"name":"CacheClass","value":2},{"name":"AdapterClass","value":3},{"name":"ControllerClass","value":4},{"name":"PeripheralClass","value":5},{"name":"MemoryClass","value":6},{"name":"MaximumClass","value":7}]}

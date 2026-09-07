@@ -1,0 +1,1 @@
+{"name":"wil_VariantReportingKind","kind":"enum","size":4,"constants":[{"name":"wil_VariantReportingKind_None","value":0},{"name":"wil_VariantReportingKind_UniqueUsage","value":1},{"name":"wil_VariantReportingKind_DeviceUsage","value":2}]}

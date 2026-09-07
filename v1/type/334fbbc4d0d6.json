@@ -1,0 +1,1 @@
+{"name":"_POP_FX_RELATION_TYPE","kind":"enum","size":4,"constants":[{"name":"PopFxRelationTypeDevice","value":0},{"name":"PopFxRelationTypeComponent","value":1},{"name":"PopFxRelationTypeMax","value":2}]}

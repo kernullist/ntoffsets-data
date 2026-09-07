@@ -1,0 +1,1 @@
+{"name":"_PSP_JOB_RATE_CONTROL_TYPE","kind":"enum","size":4,"constants":[{"name":"PspJobMinRateControl","value":0},{"name":"PspJobNetRateControl","value":0},{"name":"PspJobIoRateControl","value":1},{"name":"PspJobCpuRateControl","value":2},{"name":"PspJobMaxRateControl","value":3}]}

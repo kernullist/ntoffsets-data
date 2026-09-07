@@ -1,0 +1,1 @@
+{"name":"_ADD_DRIVER_STAGE","kind":"enum","size":4,"constants":[{"name":"ClassConfigFilters","value":0},{"name":"LowerDeviceFilters","value":1},{"name":"LowerClassFilters","value":2},{"name":"DeviceService","value":3},{"name":"UpperDeviceFilters","value":4},{"name":"UpperClassFilters","value":5},{"name":"MaximumAddStage","value":6}]}

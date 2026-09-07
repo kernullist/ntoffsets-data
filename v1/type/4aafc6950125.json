@@ -1,0 +1,1 @@
+{"name":"FsRtlAllowReservedContext","kind":"enum","size":4,"constants":[{"name":"FsRtlNoReservedContext","value":0},{"name":"FsRtlYesReservedContext","value":1}]}

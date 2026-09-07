@@ -1,0 +1,1 @@
+{"name":"_HAL_CLOCK_TIMER_MODE","kind":"enum","size":4,"constants":[{"name":"HalClockTimerModePeriodic","value":0},{"name":"HalClockTimerModeOneShot","value":1},{"name":"HalClockTimerModeMax","value":2}]}

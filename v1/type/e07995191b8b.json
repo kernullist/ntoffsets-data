@@ -1,0 +1,1 @@
+{"name":"_MI_SHARED_USER_PAGE_TYPES","kind":"enum","size":4,"constants":[{"name":"MiSharedUserPageKernel","value":0},{"name":"MiSharedUserPageHypervisor","value":1},{"name":"MiSharedUserPageMaximum","value":2}]}

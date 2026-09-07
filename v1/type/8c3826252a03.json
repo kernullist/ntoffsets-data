@@ -1,0 +1,1 @@
+{"name":"_MI_IMAGE_VIEW_EXTENSION_TYPE","kind":"enum","size":4,"constants":[{"name":"MiImageViewExtensionScpCfg","value":0},{"name":"MiImageViewExtensionEmulatedScpCfg","value":1},{"name":"MiImageViewExtensionHPAT","value":2},{"name":"MiImageViewExtensionMax","value":3}]}

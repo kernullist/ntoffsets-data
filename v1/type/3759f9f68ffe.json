@@ -1,0 +1,1 @@
+{"name":"_SEP_AUDIT_POLICY","kind":"type","size":32,"members":[{"name":"AdtTokenPolicy","type":"_TOKEN_AUDIT_POLICY","offset":0,"size":31,"bit_position":0,"bit_count":0},{"name":"PolicySetStatus","type":"unsigned char","offset":31,"size":1,"bit_position":0,"bit_count":0}]}

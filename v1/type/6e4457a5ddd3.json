@@ -1,0 +1,1 @@
+{"name":"_MMPFNLIST_SHORT","kind":"type","size":24,"members":[{"name":"Total","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Flink","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0},{"name":"Blink","type":"unsigned __int64","offset":16,"size":8,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_DOMAIN_CONFIGURATION_X64","kind":"type","size":16,"members":[{"name":"FirstLevelPageTableRoot","type":"_LARGE_INTEGER","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"TranslationEnabled","type":"unsigned char","offset":8,"size":1,"bit_position":0,"bit_count":0}]}

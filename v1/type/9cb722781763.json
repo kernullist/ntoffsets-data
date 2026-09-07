@@ -1,0 +1,1 @@
+{"name":"_KI_FORCE_PARK_DUTY_CYCLE_TRANSITION","kind":"enum","size":4,"constants":[{"name":"KiForceParkDutyCycleTransitionNone","value":0},{"name":"KiForceParkDutyCycleTransitionArm","value":1},{"name":"KiForceParkDutyCycleTransitionStart","value":2},{"name":"KiForceParkDutyCycleTransitionStop","value":3},{"name":"KiForceParkDutyCycleTransitionDisarm","value":4}]}

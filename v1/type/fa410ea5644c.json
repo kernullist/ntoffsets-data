@@ -1,0 +1,1 @@
+{"name":"_DMA_WIDTH","kind":"enum","size":4,"constants":[{"name":"Width8Bits","value":0},{"name":"Width16Bits","value":1},{"name":"Width32Bits","value":2},{"name":"Width64Bits","value":3},{"name":"WidthNoWrap","value":4},{"name":"MaximumDmaWidth","value":5}]}

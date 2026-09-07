@@ -1,0 +1,1 @@
+{"name":"SYSTEM_POWER_CONDITION","kind":"enum","size":4,"constants":[{"name":"PoAc","value":0},{"name":"PoDc","value":1},{"name":"PoHot","value":2},{"name":"PoConditionMaximum","value":3}]}

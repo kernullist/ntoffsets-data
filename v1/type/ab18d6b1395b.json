@@ -1,0 +1,1 @@
+{"name":"_EXP_SECURE_POOL_CONTEXT","kind":"type","size":16,"members":[{"name":"Header","type":"_EXP_POOL_CONTEXT_HEADER","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Handle","type":"void *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

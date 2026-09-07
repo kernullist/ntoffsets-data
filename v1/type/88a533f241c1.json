@@ -1,0 +1,1 @@
+{"name":"_CC_EXTERNAL_CACHE_INFO","kind":"type","size":24,"members":[{"name":"Callback","type":"void (*)()","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"DirtyPageStatistics","type":"_DIRTY_PAGE_STATISTICS","offset":4,"size":12,"bit_position":0,"bit_count":0},{"name":"Links","type":"_LIST_ENTRY","offset":16,"size":8,"bit_position":0,"bit_count":0}]}

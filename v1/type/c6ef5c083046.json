@@ -1,0 +1,1 @@
+{"name":"SLEEPSTUDY_SPM_SCENARIO_CS_EXIT","kind":"enum","size":4,"constants":[{"name":"SpmScenarioStopReasonUnspecified","value":17},{"name":"SpmScenarioStopReasonCsExit","value":18},{"name":"SpmScenarioStopReasonInternalSegmentTransition","value":19},{"name":"SpmScenarioStopReasonMax","value":20}]}

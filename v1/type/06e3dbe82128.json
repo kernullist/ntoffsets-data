@@ -1,0 +1,1 @@
+{"name":"_DEVICE_RELATION_TYPE","kind":"enum","size":4,"constants":[{"name":"BusRelations","value":0},{"name":"EjectionRelations","value":1},{"name":"PowerRelations","value":2},{"name":"RemovalRelations","value":3},{"name":"TargetDeviceRelation","value":4},{"name":"SingleBusRelations","value":5},{"name":"TransportRelations","value":6}]}

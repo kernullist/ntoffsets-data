@@ -1,0 +1,1 @@
+{"name":"_KQOS_GROUPING_SETS","kind":"type","size":16,"members":[{"name":"SingleCoreSet","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"SmtSet","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

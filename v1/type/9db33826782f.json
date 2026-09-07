@@ -1,0 +1,1 @@
+{"name":"_MM_PREEMPTIVE_TRIMS","kind":"enum","size":4,"constants":[{"name":"MmPreemptForNonPaged","value":0},{"name":"MmPreemptForPaged","value":1},{"name":"MmPreemptForNonPagedPriority","value":2},{"name":"MmPreemptForPagedPriority","value":3},{"name":"MmMaximumPreempt","value":4}]}

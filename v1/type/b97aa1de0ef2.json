@@ -1,0 +1,1 @@
+{"name":"_VI_FAULT_TRACE","kind":"type","size":72,"members":[{"name":"Thread","type":"_ETHREAD *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"StackTrace","type":"void *[8]","offset":8,"size":64,"bit_position":0,"bit_count":0}]}

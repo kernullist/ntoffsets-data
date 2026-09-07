@@ -1,0 +1,1 @@
+{"name":"_HAL_DMA_CRASH_DUMP_REGISTER_TYPE","kind":"enum","size":4,"constants":[{"name":"HalDmaCrashDumpRegisterSet1","value":0},{"name":"HalDmaCrashDumpRegisterSet2","value":1},{"name":"HalDmaCrashDumpRegisterSetMax","value":2}]}

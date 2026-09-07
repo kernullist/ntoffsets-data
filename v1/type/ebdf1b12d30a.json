@@ -1,0 +1,1 @@
+{"name":"_PS_PROTECTED_TYPE","kind":"enum","size":4,"constants":[{"name":"PsProtectedTypeNone","value":0},{"name":"PsProtectedTypeProtectedLight","value":1},{"name":"PsProtectedTypeProtected","value":2},{"name":"PsProtectedTypeMax","value":3}]}

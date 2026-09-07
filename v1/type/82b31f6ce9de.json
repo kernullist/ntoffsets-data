@@ -1,0 +1,1 @@
+{"name":"_PO_IRP_QUEUE","kind":"type","size":16,"members":[{"name":"CurrentIrp","type":"_IRP *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"PendingIrpList","type":"_IRP *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_IRQ_PRIORITY","kind":"enum","size":4,"constants":[{"name":"IrqPriorityUndefined","value":0},{"name":"IrqPriorityLow","value":1},{"name":"IrqPriorityNormal","value":2},{"name":"IrqPriorityHigh","value":3}]}

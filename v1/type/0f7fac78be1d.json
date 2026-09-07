@@ -1,0 +1,1 @@
+{"name":"_DMA_COMMON_BUFFER_ENTRY","kind":"type","size":16,"members":[{"name":"VirtualAddress","type":"void *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"LogicalAddress","type":"_LARGE_INTEGER","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"DMA_COMPLETION_STATUS","kind":"enum","size":4,"constants":[{"name":"DmaComplete","value":0},{"name":"DmaAborted","value":1},{"name":"DmaError","value":2},{"name":"DmaCancelled","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_MI_SECTION_IMAGE_INFORMATION","kind":"type","size":80,"members":[{"name":"ExportedImageInformation","type":"_SECTION_IMAGE_INFORMATION","offset":0,"size":64,"bit_position":0,"bit_count":0},{"name":"InternalImageInformation","type":"_MI_EXTRA_IMAGE_INFORMATION","offset":64,"size":16,"bit_position":0,"bit_count":0}]}

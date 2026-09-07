@@ -1,0 +1,1 @@
+{"name":"_EVENT_INFO_CLASS","kind":"enum","size":4,"constants":[{"name":"EventProviderBinaryTrackInfo","value":0},{"name":"EventProviderSetEnableAllKeywords","value":1},{"name":"EventProviderSetTraits","value":2},{"name":"EventProviderUseDescriptorType","value":3},{"name":"MaxEventInfo","value":4}]}

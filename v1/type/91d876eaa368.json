@@ -1,0 +1,1 @@
+{"name":"_MI_FIXUP_FLAGS","kind":"enum","size":4,"constants":[{"name":"MiFixupBaseRelocation","value":1},{"name":"MiFixupConditional","value":2},{"name":"MiFixupPrivate","value":4},{"name":"MiFixupRevert","value":8},{"name":"MiFixupDeoptimize","value":16},{"name":"MiFixupNoICacheFlush","value":32},{"name":"MiFixupBatchICacheFlush","value":64}]}

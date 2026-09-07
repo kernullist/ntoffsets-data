@@ -1,0 +1,1 @@
+{"name":"_KTBFLUSH_TYPE","kind":"enum","size":4,"constants":[{"name":"FlushKernel","value":0},{"name":"FlushUser","value":1},{"name":"FlushEntire","value":2},{"name":"FlushEntireAttributeChange","value":3}]}

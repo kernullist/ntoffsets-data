@@ -1,0 +1,1 @@
+{"name":"_DEBUG_IOMMU_EFI_DATA","kind":"type","size":16,"members":[{"name":"PciIoProtocolHandle","type":"void *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Mapping","type":"void *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

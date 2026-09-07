@@ -1,0 +1,1 @@
+{"name":"_DBGKD_READ_WRITE_MSR","kind":"type","size":12,"members":[{"name":"Msr","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"DataValueLow","type":"unsigned long","offset":4,"size":4,"bit_position":0,"bit_count":0},{"name":"DataValueHigh","type":"unsigned long","offset":8,"size":4,"bit_position":0,"bit_count":0}]}

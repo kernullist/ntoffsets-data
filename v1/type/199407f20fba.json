@@ -1,0 +1,1 @@
+{"name":"_MI_ENGINE_TYPE","kind":"enum","size":4,"constants":[{"name":"MiEngineAccelerator","value":0},{"name":"MiEngineFastProcessor","value":1},{"name":"MiEngineSlowProcessor","value":2},{"name":"MiEngineMaximumTypes","value":3}]}

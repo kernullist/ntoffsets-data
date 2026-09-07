@@ -1,0 +1,1 @@
+{"name":"_HEAP_LFH_COMMIT_UNIT_INFO","kind":"type","size":2,"members":[{"name":"CommitUnitShift","type":"unsigned char","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"UShort","type":"unsigned short","offset":0,"size":2,"bit_position":0,"bit_count":0},{"name":"CommitUnitCount","type":"unsigned char","offset":1,"size":1,"bit_position":0,"bit_count":0}]}

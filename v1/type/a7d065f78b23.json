@@ -1,0 +1,1 @@
+{"name":"_MI_PAGE_HASH_ERROR_BEHAVIOR","kind":"enum","size":4,"constants":[{"name":"MiPageHashErrorBugcheck","value":0},{"name":"MiPageHashErrorReturnError","value":1},{"name":"MiPageHashErrorIgnore","value":2}]}

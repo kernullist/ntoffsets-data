@@ -1,0 +1,1 @@
+{"name":"_HV_EXT_EPF_MODE","kind":"enum","size":4,"constants":[{"name":"HvExtEpfModeMin","value":0},{"name":"HvExtEpfModeNt","value":0},{"name":"HvExtEpfModeMax","value":1}]}

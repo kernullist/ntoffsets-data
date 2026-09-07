@@ -1,0 +1,1 @@
+{"name":"_MI_PRE_PHASE0_BUGCHECK_PARAMETER","kind":"enum","size":4,"constants":[{"name":"LoaderPfnDatabaseAllGood","value":0},{"name":"LoaderPfnDatabaseNoRegionSpace","value":1}]}

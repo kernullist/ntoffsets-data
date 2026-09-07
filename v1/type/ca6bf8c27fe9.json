@@ -1,0 +1,1 @@
+{"name":"_MI_PAGE_MOVE_PROGRESS_STATE","kind":"type","size":8,"members":[{"name":"EntireValue","type":"__int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"InProgressProcessors","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":16},{"name":"SequenceNumber","type":"unsigned __int64","offset":0,"size":8,"bit_position":16,"bit_count":48}]}

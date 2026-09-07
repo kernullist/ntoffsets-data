@@ -1,0 +1,1 @@
+{"name":"_ARBITER_REQUEST_SOURCE","kind":"enum","size":4,"constants":[{"name":"ArbiterRequestUndefined","value":-1},{"name":"ArbiterRequestLegacyReported","value":0},{"name":"ArbiterRequestHalReported","value":1},{"name":"ArbiterRequestLegacyAssigned","value":2},{"name":"ArbiterRequestPnpDetected","value":3},{"name":"ArbiterRequestPnpEnumerated","value":4}]}

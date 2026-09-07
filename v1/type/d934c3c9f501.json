@@ -1,0 +1,1 @@
+{"name":"_flags","kind":"type","size":1,"members":[{"name":"Fill","type":"unsigned char","offset":0,"size":1,"bit_position":1,"bit_count":7},{"name":"SmtSetsPresent","type":"unsigned char","offset":0,"size":1,"bit_position":0,"bit_count":1}]}

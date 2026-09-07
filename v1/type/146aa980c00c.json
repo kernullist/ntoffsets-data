@@ -1,0 +1,1 @@
+{"name":"_IOV_FORCED_PENDING_TRACE","kind":"type","size":512,"members":[{"name":"Irp","type":"_IRP *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Thread","type":"_ETHREAD *","offset":8,"size":8,"bit_position":0,"bit_count":0},{"name":"StackTrace","type":"void *[62]","offset":16,"size":496,"bit_position":0,"bit_count":0}]}

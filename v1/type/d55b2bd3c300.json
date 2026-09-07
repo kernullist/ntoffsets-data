@@ -1,0 +1,1 @@
+{"name":"_CM_HIVE_CACHE_OPLOCK_FILE_TYPE","kind":"enum","size":4,"constants":[{"name":"OplockOnPrimary","value":0},{"name":"OplockOnLog1","value":1},{"name":"OplockOnLog2","value":2},{"name":"OplocksOnFilesMax","value":3}]}

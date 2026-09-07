@@ -1,0 +1,1 @@
+{"name":"_PO_FX_PERF_STATE_TYPE","kind":"enum","size":4,"constants":[{"name":"PoFxPerfStateTypeDiscrete","value":0},{"name":"PoFxPerfStateTypeRange","value":1},{"name":"PoFxPerfStateTypeMaximum","value":2}]}

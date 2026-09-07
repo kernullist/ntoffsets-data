@@ -1,0 +1,1 @@
+{"name":"_HAL_EXTENSION_ENVIRONMENT","kind":"enum","size":4,"constants":[{"name":"HalExtEnvironmentNative","value":0},{"name":"HalExtEnvironmentVirtualRoot","value":1},{"name":"HalExtEnvironmentVirtualMachine","value":2},{"name":"HalExtEnvironmentHypervisor","value":3},{"name":"HalExtEnvironmentSK","value":4}]}

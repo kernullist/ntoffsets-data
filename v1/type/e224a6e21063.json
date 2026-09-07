@@ -1,0 +1,1 @@
+{"name":"_IOMMU_DMA_DOMAIN_TYPE","kind":"enum","size":4,"constants":[{"name":"DomainTypeTranslate","value":0},{"name":"DomainTypePassThrough","value":1},{"name":"DomainTypeUnmanaged","value":2},{"name":"DomainTypeTranslateS1","value":3},{"name":"DomainTypeMax","value":4}]}

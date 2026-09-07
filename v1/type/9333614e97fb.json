@@ -1,0 +1,1 @@
+{"name":"LSA_FOREST_TRUST_RECORD_TYPE","kind":"enum","size":4,"constants":[{"name":"ForestTrustTopLevelName","value":0},{"name":"ForestTrustTopLevelNameEx","value":1},{"name":"ForestTrustDomainInfo","value":2},{"name":"ForestTrustRecordTypeLast","value":2}]}

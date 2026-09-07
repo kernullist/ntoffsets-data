@@ -1,0 +1,1 @@
+{"name":"_ETW_SILO_TRACING_BLOCK","kind":"type","size":64,"members":[{"name":"ProcessorBuffers","type":"_EX_FAST_REF *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"EventsLoggedCount","type":"unsigned __int64 *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

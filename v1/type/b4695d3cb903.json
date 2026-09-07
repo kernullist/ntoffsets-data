@@ -1,0 +1,1 @@
+{"name":"_MI_PARTITION_VIEWS","kind":"type","size":112,"members":[{"name":"SystemViews","type":"_MI_PARTITION_VIEW_CONTROL","offset":0,"size":56,"bit_position":0,"bit_count":0},{"name":"SystemCacheViews","type":"_MI_PARTITION_VIEW_CONTROL","offset":56,"size":56,"bit_position":0,"bit_count":0}]}

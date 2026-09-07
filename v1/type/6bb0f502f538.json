@@ -1,0 +1,1 @@
+{"name":"_DEVICE_RELATION_LEVEL","kind":"enum","size":4,"constants":[{"name":"RELATION_LEVEL_REMOVE_EJECT","value":0},{"name":"RELATION_LEVEL_DEPENDENT","value":1},{"name":"RELATION_LEVEL_DIRECT_DESCENDANT","value":2}]}

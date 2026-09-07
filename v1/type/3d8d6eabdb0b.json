@@ -1,0 +1,1 @@
+{"name":"_EXT_IOMMU_DOMAIN_SETTINGS","kind":"type","size":32,"members":[{"name":"S1","type":"_EXT_IOMMU_S1_X64_DOMAIN_SETTINGS","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"S2","type":"<unnamed-tag>","offset":16,"size":16,"bit_position":0,"bit_count":0}]}

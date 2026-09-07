@@ -1,0 +1,1 @@
+{"name":"_IOMMU_DEVICE_CREATION_CONFIGURATION_FAULT_HANDLING","kind":"type","size":8,"members":[{"name":"Reserved","type":"unsigned __int64","offset":0,"size":8,"bit_position":1,"bit_count":63},{"name":"SuppressBugcheckOnFault","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":1}]}

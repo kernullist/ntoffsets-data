@@ -1,0 +1,1 @@
+{"name":"_MI_PFN_CACHE_ATTRIBUTE","kind":"enum","size":4,"constants":[{"name":"MiNonCached","value":0},{"name":"MiCached","value":1},{"name":"MiWriteCombined","value":2},{"name":"MiNotMapped","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_RTL_FEATURE_CONFIGURATION_PRIORITY","kind":"enum","size":4,"constants":[{"name":"FeatureConfigurationPriorityAll","value":0},{"name":"FeatureConfigurationPriorityService","value":4},{"name":"FeatureConfigurationPriorityUser","value":8},{"name":"FeatureConfigurationPriorityTest","value":12},{"name":"FeatureConfigurationPriorityMax","value":15}]}

@@ -1,0 +1,1 @@
+{"name":"_PNP_DEVNODE_QUERY_REBALANCE_VETO_REASON","kind":"enum","size":4,"constants":[{"name":"DeviceQueryRebalanceSucceeded","value":0},{"name":"DeviceQueryStopFailed","value":1},{"name":"DeviceFailedGetNewResourceRequirement","value":2},{"name":"DeviceInUnexpectedState","value":3},{"name":"DeviceNotSupportQueryRebalance","value":4}]}

@@ -1,0 +1,1 @@
+{"name":"_DMA_COMMON_BUFFER_EXTENDED_CONFIGURATION_ACCESS_TYPE","kind":"enum","size":4,"constants":[{"name":"CommonBufferHardwareAccessReadOnly","value":0},{"name":"CommonBufferHardwareAccessWriteOnly","value":1},{"name":"CommonBufferHardwareAccessReadWrite","value":2},{"name":"CommonBufferHardwareAccessMax","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_EXCEPTION_POINTERS","kind":"type","size":16,"members":[{"name":"ExceptionRecord","type":"_EXCEPTION_RECORD *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"ContextRecord","type":"_CONTEXT *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

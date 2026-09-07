@@ -1,0 +1,1 @@
+{"name":"_TP_CALLBACK_PRIORITY","kind":"enum","size":4,"constants":[{"name":"TP_CALLBACK_PRIORITY_HIGH","value":0},{"name":"TP_CALLBACK_PRIORITY_NORMAL","value":1},{"name":"TP_CALLBACK_PRIORITY_LOW","value":2},{"name":"TP_CALLBACK_PRIORITY_COUNT","value":3},{"name":"TP_CALLBACK_PRIORITY_INVALID","value":3}]}

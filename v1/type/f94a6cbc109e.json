@@ -1,0 +1,1 @@
+{"name":"_KTIMER_TABLE","kind":"type","size":6224,"members":[{"name":"TimerExpiry","type":"_KTIMER *[16]","offset":0,"size":64,"bit_position":0,"bit_count":0},{"name":"TimerEntries","type":"_KTIMER_TABLE_ENTRY[256][1]","offset":64,"size":6144,"bit_position":0,"bit_count":0},{"name":"TableState","type":"_KTIMER_TABLE_STATE","offset":6208,"size":16,"bit_position":0,"bit_count":0}]}

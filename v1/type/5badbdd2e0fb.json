@@ -1,0 +1,1 @@
+{"name":"_MEMORY_RESERVE_TYPE","kind":"enum","size":4,"constants":[{"name":"MemoryReserveUserApc","value":0},{"name":"MemoryReserveIoCompletion","value":1},{"name":"MemoryReserveTypeMax","value":2}]}

@@ -1,0 +1,1 @@
+{"name":"_ARBITER_ADD_RESERVED_PARAMETERS","kind":"type","size":8,"members":[{"name":"ReserveDevice","type":"_DEVICE_OBJECT *","offset":0,"size":8,"bit_position":0,"bit_count":0}]}

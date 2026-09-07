@@ -1,0 +1,1 @@
+{"name":"_MI_RESUME_WORKITEM","kind":"type","size":56,"members":[{"name":"ResumeCompleteEvent","type":"_KEVENT","offset":0,"size":24,"bit_position":0,"bit_count":0},{"name":"WorkItem","type":"_WORK_QUEUE_ITEM","offset":24,"size":32,"bit_position":0,"bit_count":0}]}

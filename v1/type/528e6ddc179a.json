@@ -1,0 +1,1 @@
+{"name":"PROFILE_STATUS","kind":"enum","size":4,"constants":[{"name":"DOCK_NOTDOCKDEVICE","value":0},{"name":"DOCK_QUIESCENT","value":1},{"name":"DOCK_ARRIVING","value":2},{"name":"DOCK_DEPARTING","value":3},{"name":"DOCK_EJECTIRP_COMPLETED","value":4}]}

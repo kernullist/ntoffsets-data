@@ -1,0 +1,1 @@
+{"name":"_ALTERNATIVE_ARCHITECTURE_TYPE","kind":"enum","size":4,"constants":[{"name":"StandardDesign","value":0},{"name":"NEC98x86","value":1},{"name":"EndAlternatives","value":2}]}

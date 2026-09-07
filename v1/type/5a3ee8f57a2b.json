@@ -1,0 +1,1 @@
+{"name":"_HVIEW_MAP_PIN_LOG","kind":"type","size":1160,"members":[{"name":"Next","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"Size","type":"unsigned long","offset":4,"size":4,"bit_position":0,"bit_count":0},{"name":"Entries","type":"_HVIEW_MAP_PIN_LOG_ENTRY[16]","offset":8,"size":1152,"bit_position":0,"bit_count":0}]}

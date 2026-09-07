@@ -1,0 +1,1 @@
+{"name":"_SKCALL_FFA_MEMORY_OPERATION","kind":"enum","size":4,"constants":[{"name":"SKCALL_FFA_OPERATION_CHECK_SUPPORT","value":0},{"name":"SKCALL_FFA_OPERATION_SHARE","value":1},{"name":"SKCALL_FFA_OPERATION_LEND","value":2},{"name":"SKCALL_FFA_OPERATION_GET_PAGES_LIST","value":3},{"name":"SKCALL_FFA_OPERATION_MAX","value":4},{"name":"SKCALL_FFA_OPERATION_RECLAIM","value":4}]}

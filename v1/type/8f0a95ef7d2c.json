@@ -1,0 +1,1 @@
+{"name":"_MI_CACHED_PTE_TYPE","kind":"enum","size":4,"constants":[{"name":"MiBitmapCachedPtes","value":0},{"name":"MiNoBitmapCachedPtes","value":1},{"name":"MiLargeCachedPdes","value":2},{"name":"MiNumberOfCachedPteTypes","value":3}]}

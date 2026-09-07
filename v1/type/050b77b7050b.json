@@ -1,0 +1,1 @@
+{"name":"_CC_NUMA_TYPE","kind":"enum","size":4,"constants":[{"name":"InvalidNumaNodeType","value":0},{"name":"PartitionNumaNode","value":1},{"name":"VolumeNumaNode","value":2},{"name":"MaxNumaNodeType","value":3}]}

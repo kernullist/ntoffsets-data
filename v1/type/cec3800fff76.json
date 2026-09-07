@@ -1,0 +1,1 @@
+{"name":"_KTRANSACTION_HISTORY","kind":"type","size":8,"members":[{"name":"RecordType","type":"<unnamed-enum-KTMOH_CommitTransaction_Result>","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"Payload","type":"unsigned long","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

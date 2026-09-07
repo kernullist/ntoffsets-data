@@ -1,0 +1,1 @@
+{"name":"MiAttributeChangeCases","kind":"enum","size":4,"constants":[{"name":"PreZeroAttributeChangePfnList","value":0},{"name":"PostZeroAttributeChangePfnList","value":1},{"name":"MakeCachedPfnList","value":2},{"name":"AlreadyCachedPfnList","value":3},{"name":"PageAttributeChangeMaximum","value":4}]}

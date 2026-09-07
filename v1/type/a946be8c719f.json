@@ -1,0 +1,1 @@
+{"name":"_RTL_HP_SEG_ALLOC_POLICY","kind":"type","size":24,"members":[{"name":"MinLargePages","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"MaxLargePages","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0},{"name":"MinUtilization","type":"unsigned char","offset":16,"size":1,"bit_position":0,"bit_count":0}]}

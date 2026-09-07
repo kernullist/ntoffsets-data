@@ -1,0 +1,1 @@
+{"name":"KD_CALLBACK_ACTION","kind":"enum","size":4,"constants":[{"name":"KdConfigureDeviceAndContinue","value":0},{"name":"KdSkipDeviceAndContinue","value":1},{"name":"KdConfigureDeviceAndStop","value":2},{"name":"KdSkipDeviceAndStop","value":3}]}

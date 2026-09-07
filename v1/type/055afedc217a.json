@@ -1,0 +1,1 @@
+{"name":"_PERIODIC_FLUSH_FREQUENCY","kind":"enum","size":4,"constants":[{"name":"PERIODIC_FLUSH_FREQUENCY_NONE","value":0},{"name":"PERIODIC_FLUSH_FREQUENCY_NORMAL","value":1},{"name":"PERIODIC_FLUSH_FREQUENCY_HIGH","value":2},{"name":"PERIODIC_FLUSH_FREQUENCY_COUNT","value":3}]}

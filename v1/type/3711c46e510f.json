@@ -1,0 +1,1 @@
+{"name":"_SESSION_LOWBOX_MAP","kind":"type","size":32,"members":[{"name":"ListEntry","type":"_LIST_ENTRY","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"SessionId","type":"unsigned long","offset":8,"size":4,"bit_position":0,"bit_count":0},{"name":"LowboxMap","type":"_SEP_LOWBOX_NUMBER_MAPPING","offset":12,"size":20,"bit_position":0,"bit_count":0}]}

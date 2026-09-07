@@ -1,0 +1,1 @@
+{"name":"_KTHREAD_TAG","kind":"enum","size":4,"constants":[{"name":"KThreadTagNone","value":0},{"name":"KThreadTagMediaBuffering","value":1},{"name":"KThreadTagDeadline","value":2},{"name":"KThreadTagMediaOther","value":3},{"name":"KThreadTagMax","value":4}]}

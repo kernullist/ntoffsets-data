@@ -1,0 +1,1 @@
+{"name":"CPU_VENDORS","kind":"enum","size":4,"constants":[{"name":"CPU_NONE","value":0},{"name":"CPU_INTEL","value":1},{"name":"CPU_AMD","value":2},{"name":"CPU_CYRIX","value":3},{"name":"CPU_TRANSMETA","value":4},{"name":"CPU_CENTAUR","value":5},{"name":"CPU_VIA","value":5},{"name":"CPU_RISE","value":6},{"name":"CPU_UNKNOWN","value":7}]}

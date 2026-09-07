@@ -1,0 +1,1 @@
+{"name":"wil_FeatureStore","kind":"enum","size":4,"constants":[{"name":"wil_FeatureStore_Machine","value":0},{"name":"wil_FeatureStore_User","value":1},{"name":"wil_FeatureStore_All","value":2}]}

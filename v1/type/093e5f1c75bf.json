@@ -1,0 +1,1 @@
+{"name":"_KPROCESS_STATE","kind":"enum","size":4,"constants":[{"name":"ProcessInMemory","value":0},{"name":"ProcessOutOfMemory","value":1},{"name":"ProcessInTransition","value":2},{"name":"ProcessOutTransition","value":3},{"name":"ProcessInSwap","value":4},{"name":"ProcessOutSwap","value":5},{"name":"ProcessRetryOutSwap","value":6},{"name":"ProcessAllSwapStates","value":7}]}

@@ -1,0 +1,1 @@
+{"name":"LIST_ENTRY32","kind":"type","size":8,"members":[{"name":"Flink","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"Blink","type":"unsigned long","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

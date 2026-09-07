@@ -1,0 +1,1 @@
+{"name":"_SE_ANTITAMPER_PROTECTION_TYPE","kind":"enum","size":4,"constants":[{"name":"AntiTamperProtectionDefault","value":0},{"name":"AntiTamperProtectionConfigured","value":1},{"name":"AntiTamperProtectionInherited","value":2},{"name":"AntiTamperProtectionExplicit","value":3},{"name":"AntiTamperProtectionDisabled","value":4}]}

@@ -1,0 +1,1 @@
+{"name":"_MI_EC_BITMAP_INFO","kind":"type","size":16,"members":[{"name":"BaseAddress","type":"void *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"BitmapVad","type":"_MMVAD *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

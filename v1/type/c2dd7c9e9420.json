@@ -1,0 +1,1 @@
+{"name":"ETW_COMPRESSION_RESUMPTION_MODE","kind":"enum","size":4,"constants":[{"name":"EtwCompressionModeRestart","value":0},{"name":"EtwCompressionModeNoDisable","value":1},{"name":"EtwCompressionModeNoRestart","value":2}]}

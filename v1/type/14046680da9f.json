@@ -1,0 +1,1 @@
+{"name":"_HMAP_DIRECTORY","kind":"type","size":8192,"members":[{"name":"Directory","type":"_HMAP_TABLE *[1024]","offset":0,"size":8192,"bit_position":0,"bit_count":0}]}

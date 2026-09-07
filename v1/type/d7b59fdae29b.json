@@ -1,0 +1,1 @@
+{"name":"_RTLP_HP_ALLOCATOR","kind":"enum","size":4,"constants":[{"name":"RtlpHpSegmentSm","value":0},{"name":"RtlpHpSegmentLg","value":1},{"name":"RtlpHpHugeAllocator","value":2},{"name":"RtlpHpSegmentTypes","value":2},{"name":"RtlpHpAllocatorMax","value":3}]}

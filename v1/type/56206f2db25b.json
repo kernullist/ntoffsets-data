@@ -1,0 +1,1 @@
+{"name":"_IOMMU_DMA_LOGICAL_ALLOCATOR_CAPABILITY_EXPLICIT_ADDRESS","kind":"enum","size":4,"constants":[{"name":"LogicalAllocatorCapabilityExplicitNotSupported","value":0},{"name":"LogicalAllocatorCapabilityExplicitReservedOnly","value":1},{"name":"LogicalAllocatorCapabilityExplicitAnyAddress","value":2}]}

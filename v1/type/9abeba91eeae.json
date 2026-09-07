@@ -1,0 +1,1 @@
+{"name":"PDC_RESOURCE","kind":"enum","size":4,"constants":[{"name":"PdcResourceMin","value":0},{"name":"PdcResourceSystemForeground","value":0},{"name":"PdcResourceUniversalApplications","value":1},{"name":"PdcResourceWin32","value":2},{"name":"PdcResourceNetwork","value":3},{"name":"PdcResourceMax","value":4},{"name":"PdcResourceSystemBackground","value":4}]}

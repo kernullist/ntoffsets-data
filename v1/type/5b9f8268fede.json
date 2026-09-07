@@ -1,0 +1,1 @@
+{"name":"_MEM_DEDICATED_ATTRIBUTE_TYPE","kind":"enum","size":4,"constants":[{"name":"MemDedicatedAttributeReadBandwidth","value":0},{"name":"MemDedicatedAttributeReadLatency","value":1},{"name":"MemDedicatedAttributeWriteBandwidth","value":2},{"name":"MemDedicatedAttributeWriteLatency","value":3},{"name":"MemDedicatedAttributeMax","value":4}]}

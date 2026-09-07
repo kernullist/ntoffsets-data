@@ -1,0 +1,1 @@
+{"name":"__n8","kind":"type","size":1,"members":[{"name":"n8_i8","type":"char[1]","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"n8_p8","type":"unsigned char[1]","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"n8_u8","type":"unsigned char[1]","offset":0,"size":1,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_MI_RESTRICTED_MODWRITES","kind":"type","size":3,"members":[{"name":"MaximumClusterPages","type":"unsigned char","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"ReducedClusterWrites","type":"unsigned char","offset":1,"size":1,"bit_position":0,"bit_count":0},{"name":"ImposeDelay","type":"unsigned char","offset":2,"size":1,"bit_position":0,"bit_count":0}]}

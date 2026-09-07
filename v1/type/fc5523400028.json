@@ -1,0 +1,1 @@
+{"name":"_PS_STD_HANDLE_STATE","kind":"enum","size":4,"constants":[{"name":"PsNeverDuplicate","value":0},{"name":"PsRequestDuplicate","value":1},{"name":"PsAlwaysDuplicate","value":2},{"name":"PsMaxStdHandleStates","value":3}]}

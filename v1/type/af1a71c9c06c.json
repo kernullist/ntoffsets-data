@@ -1,0 +1,1 @@
+{"name":"_PO_HIBER_FORCE_DISABLE_REASON","kind":"enum","size":4,"constants":[{"name":"PoHiberForceDisableReasonPolicy","value":0},{"name":"PoHiberForceDisableReasonGuardedHost","value":1},{"name":"PoHiberForceDisableReasonMax","value":2}]}

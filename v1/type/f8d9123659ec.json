@@ -1,0 +1,1 @@
+{"name":"_MI_SLAB_TYPE_IDENTIFIER","kind":"type","size":2,"members":[{"name":"SlabType","type":"unsigned char","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"ChargesAcquired","type":"unsigned char","offset":1,"size":1,"bit_position":7,"bit_count":1},{"name":"SlabIdentity","type":"unsigned char","offset":1,"size":1,"bit_position":0,"bit_count":7}]}

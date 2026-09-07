@@ -1,0 +1,1 @@
+{"name":"_EX_BALANCE_OBJECT","kind":"enum","size":4,"constants":[{"name":"ExTimerExpiration","value":0},{"name":"ExThreadSetManagerEvent","value":1},{"name":"ExThreadReaperEvent","value":2},{"name":"ExMaximumBalanceObject","value":3}]}

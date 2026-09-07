@@ -1,0 +1,1 @@
+{"name":"_MI_WRITE_TYPES","kind":"enum","size":4,"constants":[{"name":"WriteTypeCached","value":0},{"name":"WriteTypeNonTemporal","value":1},{"name":"WriteTypeMaximum","value":2}]}

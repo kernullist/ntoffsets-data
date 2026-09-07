@@ -1,0 +1,1 @@
+{"name":"_HEAP_LFH_SUBSEGMENT_STATS","kind":"type","size":8,"members":[{"name":"AllStats","type":"void *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Buckets","type":"_HEAP_LFH_SUBSEGMENT_STAT[4]","offset":0,"size":8,"bit_position":0,"bit_count":0}]}

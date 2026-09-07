@@ -1,0 +1,1 @@
+{"name":"_MI_LARGEPAGE_IMAGE_INFO","kind":"type","size":16,"members":[{"name":"LargeImageBias","type":"unsigned char","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"Spare","type":"unsigned char[3]","offset":1,"size":3,"bit_position":0,"bit_count":0},{"name":"ActualImageViewSize","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

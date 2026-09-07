@@ -1,0 +1,1 @@
+{"name":"_CM_DIRTY_VECTOR_OPERATION","kind":"enum","size":4,"constants":[{"name":"DirtyVectorModified","value":0},{"name":"DirtyDataCaptureStart","value":1},{"name":"DirtyDataCaptureEnd","value":2}]}

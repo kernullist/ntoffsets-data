@@ -1,0 +1,1 @@
+{"name":"_MM_POOL_TYPES","kind":"enum","size":4,"constants":[{"name":"MmNonPagedPool","value":0},{"name":"MmPagedPool","value":1},{"name":"MmSessionPagedPool","value":2},{"name":"MmMaximumPoolType","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_HV_SUBNODE_TYPE","kind":"enum","size":4,"constants":[{"name":"HvSubnodeInvalid","value":-1},{"name":"HvSubnodeAny","value":0},{"name":"HvSubnodeSocket","value":1},{"name":"HvSubnodeCluster","value":2},{"name":"HvSubnodeL3","value":3},{"name":"HvSubnodeCount","value":4}]}

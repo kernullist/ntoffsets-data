@@ -1,0 +1,1 @@
+{"name":"_MI_ZERO_COST_COUNTS","kind":"type","size":16,"members":[{"name":"NativeSum","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"AlternateSum","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

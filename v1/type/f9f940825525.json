@@ -1,0 +1,1 @@
+{"name":"_EXT_IOMMU_DEVICE_ID_GIC","kind":"type","size":4,"members":[{"name":"LineNumber","type":"unsigned int","offset":0,"size":4,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"POWER_ACTION_POLICY","kind":"type","size":12,"members":[{"name":"Action","type":"POWER_ACTION","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"Flags","type":"unsigned long","offset":4,"size":4,"bit_position":0,"bit_count":0},{"name":"EventCode","type":"unsigned long","offset":8,"size":4,"bit_position":0,"bit_count":0}]}

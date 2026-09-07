@@ -1,0 +1,1 @@
+{"name":"_EXT_IOMMU_S1_X64_DOMAIN_SETTINGS","kind":"type","size":16,"members":[{"name":"Flags","type":"<unnamed-tag>","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"PasidTable","type":"void *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

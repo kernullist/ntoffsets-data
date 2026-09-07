@@ -1,0 +1,1 @@
+{"name":"_THERMAL_ZONE_COUNTERS","kind":"type","size":12,"members":[{"name":"Temperature","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"ThrottleLimit","type":"unsigned long","offset":4,"size":4,"bit_position":0,"bit_count":0},{"name":"ThrottleReasons","type":"unsigned long","offset":8,"size":4,"bit_position":0,"bit_count":0}]}

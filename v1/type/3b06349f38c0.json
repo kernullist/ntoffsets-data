@@ -1,0 +1,1 @@
+{"name":"_KTIMER2_TYPE","kind":"enum","size":4,"constants":[{"name":"KTimer2Plain","value":0},{"name":"KTimer2TypeMin","value":0},{"name":"KTimer2IdleResilient","value":1},{"name":"KTimer2HighResolution","value":2},{"name":"KTimer2NoWake","value":3},{"name":"KTimer2NoWakeFinite","value":4},{"name":"KTimer2TypeMax","value":5}]}

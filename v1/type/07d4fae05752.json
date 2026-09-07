@@ -1,0 +1,1 @@
+{"name":"_WHEA_EVENT_LOG_ENTRY","kind":"type","size":32,"members":[{"name":"Header","type":"_WHEA_EVENT_LOG_ENTRY_HEADER","offset":0,"size":32,"bit_position":0,"bit_count":0}]}

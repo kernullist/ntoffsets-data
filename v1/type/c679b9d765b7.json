@@ -1,0 +1,1 @@
+{"name":"_WHEA_IPF_CMC_DESCRIPTOR","kind":"type","size":4,"members":[{"name":"Type","type":"unsigned short","offset":0,"size":2,"bit_position":0,"bit_count":0},{"name":"Enabled","type":"unsigned char","offset":2,"size":1,"bit_position":0,"bit_count":0},{"name":"Reserved","type":"unsigned char","offset":3,"size":1,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_ETW_PERFECT_HASH_FUNCTION_TYPE","kind":"enum","size":4,"constants":[{"name":"ETW_PHF_EVENT_ID","value":0},{"name":"ETW_PHF_STACK_WALK","value":1},{"name":"ETW_PHF_MAX_COUNT","value":2}]}

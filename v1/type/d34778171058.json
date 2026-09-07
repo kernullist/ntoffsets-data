@@ -1,0 +1,1 @@
+{"name":"_XSAVE_AREA","kind":"type","size":576,"members":[{"name":"LegacyState","type":"_XSAVE_FORMAT","offset":0,"size":512,"bit_position":0,"bit_count":0},{"name":"Header","type":"_XSAVE_AREA_HEADER","offset":512,"size":64,"bit_position":0,"bit_count":0}]}

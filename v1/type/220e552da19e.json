@@ -1,0 +1,1 @@
+{"name":"_OB_OPEN_REASON","kind":"enum","size":4,"constants":[{"name":"ObCreateHandle","value":0},{"name":"ObOpenHandle","value":1},{"name":"ObDuplicateHandle","value":2},{"name":"ObInheritHandle","value":3},{"name":"ObMaxOpenReason","value":4}]}

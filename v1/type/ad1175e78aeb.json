@@ -1,0 +1,1 @@
+{"name":"_GPIO_PIN_CONFIG_TYPE","kind":"enum","size":4,"constants":[{"name":"PullDefault","value":0},{"name":"PullUp","value":1},{"name":"PullDown","value":2},{"name":"PullNone","value":3}]}

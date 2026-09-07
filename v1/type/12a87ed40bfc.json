@@ -1,0 +1,1 @@
+{"name":"_ETW_PERIODIC_TIMER_STATE","kind":"enum","size":4,"constants":[{"name":"EtwpPeriodicTimerUnset","value":0},{"name":"EtwpPeriodicTimerSet","value":1}]}

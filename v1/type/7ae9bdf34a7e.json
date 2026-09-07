@@ -1,0 +1,1 @@
+{"name":"_MI_NODE_NONPAGED_POOL_BITMAP","kind":"enum","size":4,"constants":[{"name":"NonPagedPoolLargePdeNx","value":0},{"name":"NonPagedPoolSmallPde","value":1},{"name":"NonPagedPoolPerPage","value":2}]}

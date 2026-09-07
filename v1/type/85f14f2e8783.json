@@ -1,0 +1,1 @@
+{"name":"IRPLOCK","kind":"enum","size":4,"constants":[{"name":"IRPLOCK_CANCELABLE","value":0},{"name":"IRPLOCK_CANCEL_STARTED","value":1},{"name":"IRPLOCK_CANCEL_COMPLETE","value":2},{"name":"IRPLOCK_COMPLETED","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_FAULT_INFORMATION_ARCH","kind":"enum","size":4,"constants":[{"name":"FaultInformationInvalid","value":0},{"name":"FaultInformationArm64","value":1},{"name":"FaultInformationX64","value":2}]}

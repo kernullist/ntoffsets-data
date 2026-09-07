@@ -1,0 +1,1 @@
+{"name":"_SEP_ANTITAMPER_SID_TYPE","kind":"enum","size":4,"constants":[{"name":"AntiTamperSidTypeUser","value":0},{"name":"AntiTamperSidTypeAppIdentity","value":1},{"name":"AntiTamperSidTypeAppInstance","value":2},{"name":"AntiTamperSidTypeAppSuite","value":3}]}

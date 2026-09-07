@@ -1,0 +1,1 @@
+{"name":"_KDUE_TIME_TYPE","kind":"enum","size":4,"constants":[{"name":"DueTimeNone","value":0},{"name":"DueTimeAbsolute","value":1},{"name":"DueTimeRelative","value":2},{"name":"DueTimeRelativeWake","value":3},{"name":"DueTimeMaxTypes","value":4}]}

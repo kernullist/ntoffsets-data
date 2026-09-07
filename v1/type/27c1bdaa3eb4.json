@@ -1,0 +1,1 @@
+{"name":"_PSP_CRITICAL_PROCESS_DEATH_INFO_HEADER","kind":"type","size":8,"members":[{"name":"Signature","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"Size","type":"unsigned long","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

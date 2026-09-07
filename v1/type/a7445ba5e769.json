@@ -1,0 +1,1 @@
+{"name":"_CLIENT_ID64","kind":"type","size":16,"members":[{"name":"UniqueProcess","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"UniqueThread","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}
