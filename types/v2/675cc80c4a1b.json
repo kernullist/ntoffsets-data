@@ -1,0 +1,1 @@
+{"name":"wil_details_CachedHasNotificationState","kind":"enum","size":4,"constants":[{"name":"wil_details_CachedHasNotificationState_Unknown","value":0},{"name":"wil_details_CachedHasNotificationState_DoesNotHaveNotifications","value":1},{"name":"wil_details_CachedHasNotificationState_HasNotification","value":2}]}

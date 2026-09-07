@@ -1,0 +1,1 @@
+{"name":"_KSHARED_READY_QUEUE_AFFINITY_STATISTICS","kind":"type","size":8,"members":[{"name":"AffinitySummary","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0}]}

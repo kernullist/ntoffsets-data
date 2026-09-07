@@ -1,0 +1,1 @@
+{"name":"_DBGKD_QUERY_SPECIAL_CALLS","kind":"type","size":4,"members":[{"name":"NumberOfSpecialCalls","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0}]}

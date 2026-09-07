@@ -1,0 +1,1 @@
+{"name":"_NT_IORING_CREATE_FLAGS","kind":"type","size":8,"members":[{"name":"Required","type":"_NT_IORING_CREATE_REQUIRED_FLAGS","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"Advisory","type":"_NT_IORING_CREATE_ADVISORY_FLAGS","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

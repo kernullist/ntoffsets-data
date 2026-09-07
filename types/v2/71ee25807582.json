@@ -1,0 +1,1 @@
+{"name":"_EX_POOL_MEMORY_TYPE","kind":"enum","size":4,"constants":[{"name":"ExPoolMemoryPaged","value":0},{"name":"ExPoolMemoryNonPaged","value":1},{"name":"ExPoolMemoryTypeMax","value":2}]}

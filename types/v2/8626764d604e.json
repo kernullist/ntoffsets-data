@@ -1,0 +1,1 @@
+{"name":"_PO_MODERN_SLEEP_ACTION","kind":"enum","size":4,"constants":[{"name":"PoModernSleepActionGlobalActivatorsVeto","value":0},{"name":"PoModernSleepActionNonBlockingPhases","value":1},{"name":"PoModernSleepActionForceIdle","value":2},{"name":"PoModernSleepActionMinimalBlockingNotificationClients","value":3},{"name":"PoModernSleepActionMax","value":4}]}

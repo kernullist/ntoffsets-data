@@ -1,0 +1,1 @@
+{"name":"RTL_HP_ENV_HANDLE","kind":"type","size":16,"members":[{"name":"h","type":"void *[2]","offset":0,"size":16,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_PPM_HETERO_POLICY","kind":"enum","size":4,"constants":[{"name":"PpmHeteroPolicyNone","value":0},{"name":"PpmHeteroPolicyManual","value":1},{"name":"PpmHeteroPolicySmallOnly","value":2},{"name":"PpmHeteroPolicyLargeOnly","value":3},{"name":"PpmHeteroPolicyDynamic","value":4},{"name":"PpmHeteroPolicyMaximum","value":5}]}

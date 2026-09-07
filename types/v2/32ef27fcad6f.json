@@ -1,0 +1,1 @@
+{"name":"_PROCESS_VA_TYPE","kind":"enum","size":4,"constants":[{"name":"ProcessVAImage","value":0},{"name":"ProcessVASection","value":1},{"name":"ProcessVAPrivate","value":2},{"name":"ProcessVAMax","value":3}]}

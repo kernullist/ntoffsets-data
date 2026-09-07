@@ -1,0 +1,1 @@
+{"name":"_LIST_ENTRY","kind":"type","size":16,"members":[{"name":"Flink","type":"_LIST_ENTRY *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Blink","type":"_LIST_ENTRY *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

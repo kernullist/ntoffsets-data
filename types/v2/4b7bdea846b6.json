@@ -1,0 +1,1 @@
+{"name":"_MODE","kind":"enum","size":4,"constants":[{"name":"KernelMode","value":0},{"name":"UserMode","value":1},{"name":"MaximumMode","value":2}]}

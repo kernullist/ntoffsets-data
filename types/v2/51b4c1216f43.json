@@ -1,0 +1,1 @@
+{"name":"_MI_HYPER_SPACE","kind":"type","size":8192,"members":[{"name":"VadBitmap","type":"unsigned char[6144]","offset":0,"size":6144,"bit_position":0,"bit_count":0},{"name":"PaddingToPageBoundary","type":"unsigned char[2048]","offset":6144,"size":2048,"bit_position":0,"bit_count":0}]}

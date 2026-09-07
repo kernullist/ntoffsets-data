@@ -1,0 +1,1 @@
+{"name":"_IOMMU_ATS_SETTING","kind":"enum","size":4,"constants":[{"name":"AtsSettingPreserve","value":0},{"name":"AtsSettingEnable","value":1},{"name":"AtsSettingDisable","value":2}]}

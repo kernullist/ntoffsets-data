@@ -1,0 +1,1 @@
+{"name":"FEATURE_LOGGED_TRAITS","kind":"type","size":6,"members":[{"name":"version","type":"unsigned short","offset":0,"size":2,"bit_position":0,"bit_count":0},{"name":"baseVersion","type":"unsigned short","offset":2,"size":2,"bit_position":0,"bit_count":0},{"name":"stage","type":"unsigned char","offset":4,"size":1,"bit_position":0,"bit_count":0}]}

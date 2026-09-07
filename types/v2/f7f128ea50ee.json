@@ -1,0 +1,1 @@
+{"name":"_IOMMU_SYSTEM_RESERVED_REGION_CONFIGURATION","kind":"enum","size":4,"constants":[{"name":"SystemRegionNone","value":0},{"name":"SystemRegionActive","value":1},{"name":"SystemRegionSkipped","value":2}]}

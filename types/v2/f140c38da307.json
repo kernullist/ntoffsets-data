@@ -1,0 +1,1 @@
+{"name":"_KINTERRUPT_MODE","kind":"enum","size":4,"constants":[{"name":"LevelSensitive","value":0},{"name":"Latched","value":1}]}

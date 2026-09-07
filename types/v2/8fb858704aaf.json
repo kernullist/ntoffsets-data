@@ -1,0 +1,1 @@
+{"name":"_MMMOD_WRITER_LISTHEAD","kind":"type","size":24,"members":[{"name":"ListHead","type":"_LIST_ENTRY","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Event","type":"_KEVENT","offset":8,"size":16,"bit_position":0,"bit_count":0},{"name":"Gate","type":"_KGATE","offset":8,"size":16,"bit_position":0,"bit_count":0}]}

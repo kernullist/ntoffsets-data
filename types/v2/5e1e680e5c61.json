@@ -1,0 +1,1 @@
+{"name":"_RTL_SCP_CFG_PAGE_TYPE","kind":"enum","size":4,"constants":[{"name":"RtlScpCfgPageTypeNop","value":0},{"name":"RtlScpCfgPageTypeDefault","value":1},{"name":"RtlScpCfgPageTypeExportSuppression","value":2},{"name":"RtlScpCfgPageTypeFptr","value":3},{"name":"RtlScpCfgPageTypeMax","value":4},{"name":"RtlScpCfgPageTypeNone","value":4}]}

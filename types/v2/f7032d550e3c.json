@@ -1,0 +1,1 @@
+{"name":"_HEAP_LFH_METADATA_TYPE","kind":"enum","size":4,"constants":[{"name":"HeapLfhMetadataSlotMap","value":0},{"name":"HeapLfhMetadataHeatMap","value":1},{"name":"HeapLfhMetadataSlot","value":2},{"name":"HeapLfhMetadataSlotStandby","value":3},{"name":"HeapLfhMetadataMax","value":4}]}

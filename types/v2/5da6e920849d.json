@@ -1,0 +1,1 @@
+{"name":"_TRIAGE_POP_IRP_DATA","kind":"type","size":32,"members":[{"name":"Link","type":"_LIST_ENTRY","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"Irp","type":"_IRP *","offset":16,"size":8,"bit_position":0,"bit_count":0},{"name":"Pdo","type":"_DEVICE_OBJECT *","offset":24,"size":8,"bit_position":0,"bit_count":0}]}

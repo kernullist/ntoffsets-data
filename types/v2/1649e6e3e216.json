@@ -1,0 +1,1 @@
+{"name":"_PERFINFO_KERNELMEMORY_USAGE_TYPE","kind":"enum","size":4,"constants":[{"name":"PerfInfoMemUsagePfnMetadata","value":0},{"name":"PerfInfoMemUsageMax","value":1}]}

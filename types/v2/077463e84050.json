@@ -1,0 +1,1 @@
+{"name":"_OBJECT_CLOSE_TYPE","kind":"enum","size":4,"constants":[{"name":"ObjectCloseResultNotSupported","value":0},{"name":"ObjectCloseFile","value":1}]}

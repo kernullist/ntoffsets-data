@@ -1,0 +1,1 @@
+{"name":"_VHD_LAYER_INFORMATION","kind":"type","size":24,"members":[{"name":"ParentLayer","type":"_BOOT_LAYER_INFORMATION *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"VhdFilePath","type":"_UNICODE_STRING","offset":8,"size":16,"bit_position":0,"bit_count":0}]}

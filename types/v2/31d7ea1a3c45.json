@@ -1,0 +1,1 @@
+{"name":"_MI_MIRROR_BITMAP_TYPES","kind":"enum","size":4,"constants":[{"name":"MirrorBitmapTypeNormal","value":0},{"name":"MirrorBitmapTypeInterlocked","value":1},{"name":"MirrorBitmapTypeMaximum","value":2}]}

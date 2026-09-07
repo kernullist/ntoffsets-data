@@ -1,0 +1,1 @@
+{"name":"HV_STATE_TRANSFER_MODE","kind":"enum","size":4,"constants":[{"name":"HvStateTransferModeNone","value":0},{"name":"HvStateTransferModeSource","value":1},{"name":"HvStateTransferModeCount","value":2},{"name":"HvStateTransferModeTarget","value":2}]}

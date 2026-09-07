@@ -1,0 +1,1 @@
+{"name":"_POP_IO_STATUS","kind":"enum","size":4,"constants":[{"name":"IoReady","value":0},{"name":"IoPending","value":1},{"name":"IoDone","value":2}]}

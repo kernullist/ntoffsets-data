@@ -1,0 +1,1 @@
+{"name":"_MEMORY_PHYSICAL_CONTIGUITY_UNIT_STATE","kind":"enum","size":4,"constants":[{"name":"MemoryNotContiguous","value":0},{"name":"MemoryAlignedAndContiguous","value":1},{"name":"MemoryNotResident","value":2},{"name":"MemoryNotEligibleToMakeContiguous","value":3},{"name":"MemoryContiguityStateMax","value":4}]}

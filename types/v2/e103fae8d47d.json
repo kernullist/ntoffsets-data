@@ -1,0 +1,1 @@
+{"name":"_ETW_BOOT_CONFIG","kind":"type","size":24,"members":[{"name":"MaxLoggers","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"BootLoggersList","type":"_LIST_ENTRY","offset":8,"size":16,"bit_position":0,"bit_count":0}]}

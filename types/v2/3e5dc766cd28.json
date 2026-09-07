@@ -1,0 +1,1 @@
+{"name":"_MI_PARTITION_THREAD","kind":"enum","size":4,"constants":[{"name":"MiModifiedPageWriteSlot","value":0},{"name":"MiDereferenceSegmentThreadSlot","value":1},{"name":"MiZeroPageThreadSlot","value":2},{"name":"MiPartitionWorkingSetManagerSlot","value":3},{"name":"MiMappedPageWriterSlot","value":4},{"name":"MiNumberOfPartitionThreads","value":5}]}

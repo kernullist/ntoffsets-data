@@ -1,0 +1,1 @@
+{"name":"wil_details_CachedFeatureEnabledState","kind":"enum","size":4,"constants":[{"name":"wil_details_CachedFeatureEnabledState_Unknown","value":0},{"name":"wil_details_CachedFeatureEnabledState_Disabled","value":1},{"name":"wil_details_CachedFeatureEnabledState_Enabled","value":2},{"name":"wil_details_CachedFeatureEnabledState_Desired","value":3}]}

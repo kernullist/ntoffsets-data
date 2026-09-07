@@ -1,0 +1,1 @@
+{"name":"wil_details_StagingConfigWnfStateName","kind":"type","size":8,"members":[{"name":"Data","type":"unsigned int[2]","offset":0,"size":8,"bit_position":0,"bit_count":0}]}

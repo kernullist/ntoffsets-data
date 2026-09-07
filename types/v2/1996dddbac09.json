@@ -1,0 +1,1 @@
+{"name":"wil_FeatureVariantPayloadKind","kind":"enum","size":4,"constants":[{"name":"wil_FeatureVariantPayloadKind_None","value":0},{"name":"wil_FeatureVariantPayloadKind_Resident","value":1},{"name":"wil_FeatureVariantPayloadKind_External","value":2}]}

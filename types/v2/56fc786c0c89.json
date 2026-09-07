@@ -1,0 +1,1 @@
+{"name":"SE_WS_APPX_SIGNATURE_ORIGIN","kind":"enum","size":4,"constants":[{"name":"SE_WS_APPX_SIGNATURE_ORIGIN_NOT_VALIDATED","value":0},{"name":"SE_WS_APPX_SIGNATURE_ORIGIN_UNKNOWN","value":1},{"name":"SE_WS_APPX_SIGNATURE_ORIGIN_APPSTORE","value":2},{"name":"SE_WS_APPX_SIGNATURE_ORIGIN_WINDOWS","value":3},{"name":"SE_WS_APPX_SIGNATURE_ORIGIN_ENTERPRISE","value":4}]}

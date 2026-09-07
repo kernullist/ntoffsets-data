@@ -1,0 +1,1 @@
+{"name":"wil_FeatureStage","kind":"enum","size":4,"constants":[{"name":"wil_FeatureStage_AlwaysDisabled","value":0},{"name":"wil_FeatureStage_DisabledByDefault","value":1},{"name":"wil_FeatureStage_EnabledByDefault","value":2},{"name":"wil_FeatureStage_AlwaysEnabled","value":3}]}

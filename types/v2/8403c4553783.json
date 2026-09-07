@@ -1,0 +1,1 @@
+{"name":"_WHEA_EVENT_LOG_ENTRY_ID","kind":"enum","size":4,"constants":[{"name":"WheaEventLogEntryIdCmcPollingTimeout","value":-2147483647},{"name":"WheaEventLogEntryIdWheaInit","value":-2147483646},{"name":"WheaEventLogEntryIdMax","value":-2147483645}]}

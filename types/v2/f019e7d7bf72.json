@@ -1,0 +1,1 @@
+{"name":"_ENODE","kind":"type","size":448,"members":[{"name":"Ncb","type":"_KNODE","offset":0,"size":384,"bit_position":0,"bit_count":0},{"name":"HotAddProcessorWorkItem","type":"_WORK_QUEUE_ITEM","offset":384,"size":32,"bit_position":0,"bit_count":0}]}

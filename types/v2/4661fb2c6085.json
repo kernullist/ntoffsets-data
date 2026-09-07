@@ -1,0 +1,1 @@
+{"name":"_PROCESS_EXTENDED_ENERGY_VALUES","kind":"type","size":344,"members":[{"name":"Base","type":"_PROCESS_ENERGY_VALUES","offset":0,"size":272,"bit_position":0,"bit_count":0},{"name":"Extension","type":"_PROCESS_ENERGY_VALUES_EXTENSION","offset":272,"size":72,"bit_position":0,"bit_count":0}]}

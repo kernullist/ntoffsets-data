@@ -1,0 +1,1 @@
+{"name":"wil_FeatureChangeTime","kind":"enum","size":4,"constants":[{"name":"wil_FeatureChangeTime_OnRead","value":0},{"name":"wil_FeatureChangeTime_OnReload","value":1},{"name":"wil_FeatureChangeTime_OnSession","value":2},{"name":"wil_FeatureChangeTime_OnReboot","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_MI_IO_PFN_TYPE","kind":"enum","size":4,"constants":[{"name":"MiIoPfnProbes","value":0},{"name":"MiIoPfnMaps","value":1},{"name":"MiMaximumIoPfnType","value":2}]}

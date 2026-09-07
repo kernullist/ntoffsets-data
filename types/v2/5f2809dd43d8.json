@@ -1,0 +1,1 @@
+{"name":"_KI_SHARED_COMPUTE_UNIT_TYPE","kind":"enum","size":4,"constants":[{"name":"KiArm64SMCU","value":0},{"name":"KiMaximumSharedComputeUnitType","value":1}]}

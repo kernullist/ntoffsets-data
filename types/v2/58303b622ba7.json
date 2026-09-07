@@ -1,0 +1,1 @@
+{"name":"_MM_STORE_KEY","kind":"type","size":8,"members":[{"name":"EntireKey","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"KeyHigh","type":"unsigned __int64","offset":0,"size":8,"bit_position":60,"bit_count":4},{"name":"KeyLow","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":60}]}

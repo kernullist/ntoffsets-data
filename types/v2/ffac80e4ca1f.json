@@ -1,0 +1,1 @@
+{"name":"_PO_HIBER_COMPRESS_METHOD","kind":"enum","size":4,"constants":[{"name":"CompressMethodXpressFast","value":0},{"name":"CompressMethodXpressMax","value":1},{"name":"CompressMethodXpressHuffFast","value":2},{"name":"CompressMethodXpressHuffMax","value":3},{"name":"CompressMethodLz4","value":4},{"name":"CompressMethodMax","value":5}]}

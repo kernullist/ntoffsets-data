@@ -1,0 +1,1 @@
+{"name":"_PNP_WATCHDOG_TYPE","kind":"enum","size":4,"constants":[{"name":"PNP_EVENT_WORKER_WATCHDOG","value":1},{"name":"PNP_DEVICE_COMPLETION_QUEUE_WATCHDOG","value":2},{"name":"PNP_DELAYED_REMOVE_WORKER_WATCHDOG","value":3}]}

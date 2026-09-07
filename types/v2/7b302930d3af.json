@@ -1,0 +1,1 @@
+{"name":"wil_details_FeatureReportingCache","kind":"type","size":8,"members":[{"name":"reported","type":"wil_details_ReportedState","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"recorded","type":"wil_details_RecordedState","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

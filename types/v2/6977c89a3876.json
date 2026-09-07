@@ -1,0 +1,1 @@
+{"name":"_IPI_TYPE","kind":"enum","size":4,"constants":[{"name":"IpiAffinity","value":0},{"name":"IpiAllButSelf","value":1},{"name":"IpiAll","value":2}]}

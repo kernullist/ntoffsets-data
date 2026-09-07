@@ -1,0 +1,1 @@
+{"name":"wil_details_FeatureTestStateKind","kind":"enum","size":4,"constants":[{"name":"wil_details_FeatureTestStateKind_EnabledState","value":0},{"name":"wil_details_FeatureTestStateKind_Variant","value":1}]}

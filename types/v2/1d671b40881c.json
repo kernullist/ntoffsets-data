@@ -1,0 +1,1 @@
+{"name":"_MI_BANDWIDTH_TYPES","kind":"enum","size":4,"constants":[{"name":"MiBandwidthMemory","value":0},{"name":"MiBandwidthBus","value":1},{"name":"MiBandwidthMaximum","value":2}]}

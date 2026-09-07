@@ -1,0 +1,1 @@
+{"name":"_CMP_DEVICE_NOTIFICATION_STATE","kind":"enum","size":4,"constants":[{"name":"CmpDeviceUsageNotificationsNotSent","value":0},{"name":"CmpDeviceUsageNotificationsSent","value":1},{"name":"CmpDeviceUsageNotificationsPending","value":2}]}

@@ -1,0 +1,1 @@
+{"name":"_SLIST_HEADER","kind":"type","size":16,"members":[{"name":"Alignment","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"HeaderArm64","type":"<unnamed-tag>","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"Region","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

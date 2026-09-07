@@ -1,0 +1,1 @@
+{"name":"_POWER_REQUEST_TYPE","kind":"enum","size":4,"constants":[{"name":"PowerRequestDisplayRequired","value":0},{"name":"PowerRequestSystemRequired","value":1},{"name":"PowerRequestAwayModeRequired","value":2},{"name":"PowerRequestExecutionRequired","value":3}]}

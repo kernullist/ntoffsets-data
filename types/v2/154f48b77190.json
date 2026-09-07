@@ -1,0 +1,1 @@
+{"name":"_WHEA_ERROR_SOURCE_STATE","kind":"enum","size":4,"constants":[{"name":"WheaErrSrcStateStopped","value":1},{"name":"WheaErrSrcStateStarted","value":2},{"name":"WheaErrSrcStateRemoved","value":3},{"name":"WheaErrSrcStateRemovePending","value":4}]}

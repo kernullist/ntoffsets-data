@@ -1,0 +1,1 @@
+{"name":"_IOMMU_DMA_DEVICE_FAULT_POLICY","kind":"enum","size":4,"constants":[{"name":"DmaDeviceFaultPolicyDefault","value":0},{"name":"DmaDeviceFaultPolicyMasked","value":1},{"name":"DmaDeviceFaultPolicyStage1Masked","value":2},{"name":"DmaDeviceFaultPolicyMax","value":3}]}

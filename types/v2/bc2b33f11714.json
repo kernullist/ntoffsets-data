@@ -1,0 +1,1 @@
+{"name":"_MI_PARTITION_WORKING_SET","kind":"type","size":640,"members":[{"name":"VmInstance","type":"_MMSUPPORT_INSTANCE","offset":0,"size":192,"bit_position":0,"bit_count":0},{"name":"VmWorkingSetList","type":"_MMWSL_INSTANCE","offset":256,"size":384,"bit_position":0,"bit_count":0}]}

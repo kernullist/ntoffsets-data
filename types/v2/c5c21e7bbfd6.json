@@ -1,0 +1,1 @@
+{"name":"_IOP_PRIORITY_HINT","kind":"enum","size":4,"constants":[{"name":"IopIoPriorityNotSet","value":0},{"name":"IopIoPriorityVeryLow","value":1},{"name":"IopIoPriorityLow","value":2},{"name":"IopIoPriorityNormal","value":3},{"name":"IopIoPriorityHigh","value":4},{"name":"IopIoPriorityCritical","value":5},{"name":"MaxIopIoPriorityTypes","value":6}]}

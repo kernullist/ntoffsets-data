@@ -1,0 +1,1 @@
+{"name":"_MMPTE_ACTIVE_PAGE_TABLE_LINKS","kind":"type","size":8,"members":[{"name":"BlinkHigh","type":"unsigned __int64","offset":0,"size":8,"bit_position":36,"bit_count":28},{"name":"Flink","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":36}]}

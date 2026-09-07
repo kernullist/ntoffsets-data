@@ -1,0 +1,1 @@
+{"name":"_TOKEN_MANDATORY_POLICY","kind":"type","size":4,"members":[{"name":"Policy","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0}]}

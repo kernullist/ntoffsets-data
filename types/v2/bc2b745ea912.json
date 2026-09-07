@@ -1,0 +1,1 @@
+{"name":"HAL_APIC_DESTINATION_MODE","kind":"enum","size":4,"constants":[{"name":"ApicDestinationModePhysical","value":1},{"name":"ApicDestinationModeLogicalFlat","value":2},{"name":"ApicDestinationModeLogicalClustered","value":3},{"name":"ApicDestinationModeUnknown","value":4}]}

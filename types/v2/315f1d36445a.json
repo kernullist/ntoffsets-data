@@ -1,0 +1,1 @@
+{"name":"_KTMOBJECT_NAMESPACE_LINK","kind":"type","size":20,"members":[{"name":"Links","type":"_RTL_BALANCED_LINKS","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"Expired","type":"unsigned char","offset":16,"size":1,"bit_position":0,"bit_count":0}]}

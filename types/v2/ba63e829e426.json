@@ -1,0 +1,1 @@
+{"name":"_MI_VAD_64K_TYPES","kind":"enum","size":4,"constants":[{"name":"MiVad64KPrivate","value":0},{"name":"MiVad64KShared","value":1},{"name":"MiVad64KTypes","value":2}]}

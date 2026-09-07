@@ -1,0 +1,1 @@
+{"name":"_MI_SUBVAD_LISTS","kind":"enum","size":4,"constants":[{"name":"MiSubVadPebTebAny","value":0},{"name":"MiSubVadPebTebBelow2gb","value":1},{"name":"MiSubVadMaximum","value":2}]}

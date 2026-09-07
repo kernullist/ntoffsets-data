@@ -1,0 +1,1 @@
+{"name":"_KE_HETERO_SYSTEM","kind":"enum","size":4,"constants":[{"name":"KeHeteroSystemNone","value":0},{"name":"KeHeteroSystemVirtualOff","value":1},{"name":"KeHeteroSystemVirtualOn","value":2},{"name":"KeHeteroSystemNative","value":3},{"name":"KeHeteroSystemMaximum","value":4}]}

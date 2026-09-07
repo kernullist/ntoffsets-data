@@ -1,0 +1,1 @@
+{"name":"VACB_LEVEL_ALLOCATION_LIST","kind":"type","size":16,"members":[{"name":"VacbLevelList","type":"_LIST_ENTRY","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"VacbLevelWithBcbListHeads","type":"void *","offset":8,"size":4,"bit_position":0,"bit_count":0},{"name":"VacbLevelsAllocated","type":"unsigned long","offset":12,"size":4,"bit_position":0,"bit_count":0}]}

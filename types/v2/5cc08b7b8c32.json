@@ -1,0 +1,1 @@
+{"name":"_PNP_PROBLEM_CODE_LOG_OPERATION","kind":"enum","size":4,"constants":[{"name":"ProblemCodeOpInvalid","value":0},{"name":"ProblemCodeOpSet","value":1},{"name":"ProblemCodeOpClear","value":2},{"name":"ProblemCodeOpMax","value":3}]}

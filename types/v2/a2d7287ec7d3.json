@@ -1,0 +1,1 @@
+{"name":"_MEMORY_CACHING_TYPE","kind":"enum","size":4,"constants":[{"name":"MmNotMapped","value":-1},{"name":"MmNonCached","value":0},{"name":"MmCached","value":1},{"name":"MmWriteCombined","value":2},{"name":"MmHardwareCoherentCached","value":3},{"name":"MmNonCachedUnordered","value":4},{"name":"MmUSWCCached","value":5},{"name":"MmMaximumCacheType","value":6}]}

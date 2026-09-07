@@ -1,0 +1,1 @@
+{"name":"_FILE_SEGMENT_ELEMENT","kind":"type","size":8,"members":[{"name":"Alignment","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Buffer","type":"void *","offset":0,"size":8,"bit_position":0,"bit_count":0}]}

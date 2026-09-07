@@ -1,0 +1,1 @@
+{"name":"MI_DEFERRED_PTE_LIST_TYPES","kind":"enum","size":4,"constants":[{"name":"MiDeferredPteTypeSystemPtes","value":0},{"name":"MiDeferredPteTypeFullPageTable","value":1},{"name":"MiDeferredPteTypeMaximum","value":2}]}

@@ -1,0 +1,1 @@
+{"name":"_DMA_INTERRUPT_TYPE","kind":"enum","size":4,"constants":[{"name":"InterruptTypeCompletion","value":0},{"name":"InterruptTypeError","value":1},{"name":"InterruptTypeCancelled","value":2}]}

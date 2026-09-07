@@ -1,0 +1,1 @@
+{"name":"_ARBITER_CONFLICT_INFO","kind":"type","size":24,"members":[{"name":"OwningObject","type":"_DEVICE_OBJECT *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Start","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0},{"name":"End","type":"unsigned __int64","offset":16,"size":8,"bit_position":0,"bit_count":0}]}

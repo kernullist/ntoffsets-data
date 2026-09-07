@@ -1,0 +1,1 @@
+{"name":"_ARBITER_ORDERING_LIST","kind":"type","size":8,"members":[{"name":"Count","type":"unsigned short","offset":0,"size":2,"bit_position":0,"bit_count":0},{"name":"Maximum","type":"unsigned short","offset":2,"size":2,"bit_position":0,"bit_count":0},{"name":"Orderings","type":"_ARBITER_ORDERING *","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

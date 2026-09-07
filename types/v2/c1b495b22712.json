@@ -1,0 +1,1 @@
+{"name":"BUS_QUERY_ID_TYPE","kind":"enum","size":4,"constants":[{"name":"BusQueryDeviceID","value":0},{"name":"BusQueryHardwareIDs","value":1},{"name":"BusQueryCompatibleIDs","value":2},{"name":"BusQueryInstanceID","value":3},{"name":"BusQueryDeviceSerialNumber","value":4},{"name":"BusQueryContainerID","value":5}]}

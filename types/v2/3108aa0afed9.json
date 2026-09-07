@@ -1,0 +1,1 @@
+{"name":"_INBV_PIXEL_FORMAT","kind":"enum","size":4,"constants":[{"name":"PixelFormatUnknown","value":0},{"name":"PixelFormat4BitPlanar","value":1},{"name":"PixelFormatR8G8B8","value":2},{"name":"PixelFormatR8G8B8X8","value":3},{"name":"PixelFormatB8G8R8","value":4},{"name":"PixelFormatB8G8R8X8","value":5}]}

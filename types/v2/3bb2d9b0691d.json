@@ -1,0 +1,1 @@
+{"name":"_MMLISTS","kind":"enum","size":4,"constants":[{"name":"ZeroedPageList","value":0},{"name":"FreePageList","value":1},{"name":"StandbyPageList","value":2},{"name":"ModifiedPageList","value":3},{"name":"ModifiedNoWritePageList","value":4},{"name":"BadPageList","value":5},{"name":"ActiveAndValid","value":6},{"name":"TransitionPage","value":7}]}

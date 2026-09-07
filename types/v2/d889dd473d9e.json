@@ -1,0 +1,1 @@
+{"name":"_HEAP_SEG_RANGE_TYPE","kind":"enum","size":4,"constants":[{"name":"HeapSegRangeUser","value":0},{"name":"HeapSegRangeInternal","value":1},{"name":"HeapSegRangeLFH","value":2},{"name":"HeapSegRangeVS","value":3},{"name":"HeapSegRangePG","value":4},{"name":"HeapSegRangeTypeMax","value":4}]}

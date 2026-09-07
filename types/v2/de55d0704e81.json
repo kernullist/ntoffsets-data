@@ -1,0 +1,1 @@
+{"name":"_JOBOBJECT_PAGE_PRIORITY_LIMIT_FLAGS","kind":"enum","size":4,"constants":[{"name":"JOBOBJECT_PAGE_PRIORITY_LIMIT_ENABLE","value":1},{"name":"JOBOBJECT_PAGE_PRIORITY_LIMIT_VALID_FLAGS","value":1}]}

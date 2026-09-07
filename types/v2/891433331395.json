@@ -1,0 +1,1 @@
+{"name":"_IMAGE_NT_HEADERS","kind":"type","size":248,"members":[{"name":"Signature","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"FileHeader","type":"_IMAGE_FILE_HEADER","offset":4,"size":20,"bit_position":0,"bit_count":0},{"name":"OptionalHeader","type":"_IMAGE_OPTIONAL_HEADER","offset":24,"size":224,"bit_position":0,"bit_count":0}]}

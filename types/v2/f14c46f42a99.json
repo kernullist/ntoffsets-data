@@ -1,0 +1,1 @@
+{"name":"_IO_IRP_EXT_TRACK_OFFSET_HEADER","kind":"type","size":16,"members":[{"name":"Validation","type":"unsigned short","offset":0,"size":2,"bit_position":0,"bit_count":0},{"name":"Flags","type":"unsigned short","offset":2,"size":2,"bit_position":0,"bit_count":0},{"name":"TrackedOffsetCallback","type":"void (*)()","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_HEAP_LFH_SUBSEGMENT_ENCODED_OFFSETS","kind":"type","size":4,"members":[{"name":"BlockSize","type":"unsigned short","offset":0,"size":2,"bit_position":0,"bit_count":0},{"name":"EncodedData","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"FirstBlockOffset","type":"unsigned short","offset":2,"size":2,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"_TIMEZONE_CHANGE_EVENT","kind":"type","size":88,"members":[{"name":"Dpc","type":"_KDPC","offset":0,"size":32,"bit_position":0,"bit_count":0},{"name":"Timer","type":"_KTIMER","offset":32,"size":40,"bit_position":0,"bit_count":0},{"name":"WorkItem","type":"_WORK_QUEUE_ITEM","offset":72,"size":16,"bit_position":0,"bit_count":0}]}

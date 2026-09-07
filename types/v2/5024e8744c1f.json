@@ -1,0 +1,1 @@
+{"name":"_MI_ACTIVE_WSLE_LISTHEAD","kind":"type","size":16,"members":[{"name":"Flink","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Blink","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

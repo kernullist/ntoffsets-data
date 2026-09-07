@@ -1,0 +1,1 @@
+{"name":"_OBP_SYSTEM_DOS_DEVICE_STATE","kind":"type","size":108,"members":[{"name":"GlobalDeviceMap","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"LocalDeviceCount","type":"unsigned long[26]","offset":4,"size":104,"bit_position":0,"bit_count":0}]}

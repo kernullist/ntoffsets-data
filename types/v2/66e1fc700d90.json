@@ -1,0 +1,1 @@
+{"name":"<unnamed-enum-KTMOH_CommitTransaction_Result>","kind":"enum","size":4,"constants":[{"name":"KTMOH_CommitTransaction_Result","value":1},{"name":"KTMOH_RollbackTransaction_Result","value":2}]}

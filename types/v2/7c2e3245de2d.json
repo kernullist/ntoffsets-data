@@ -1,0 +1,1 @@
+{"name":"_OBJECT_NAMESPACE_LOOKUPTABLE","kind":"type","size":608,"members":[{"name":"HashBuckets","type":"_LIST_ENTRY[37]","offset":0,"size":592,"bit_position":0,"bit_count":0},{"name":"Lock","type":"_EX_PUSH_LOCK","offset":592,"size":8,"bit_position":0,"bit_count":0},{"name":"NumberOfPrivateSpaces","type":"unsigned long","offset":600,"size":4,"bit_position":0,"bit_count":0}]}

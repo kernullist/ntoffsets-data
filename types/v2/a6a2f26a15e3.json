@@ -1,0 +1,1 @@
+{"name":"_MI_HARD_FAULT_STATE","kind":"type","size":8,"members":[{"name":"SwapPfn","type":"_MMPFN *","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"StoreFlags","type":"_MI_STORE_INPAGE_COMPLETE_FLAGS","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

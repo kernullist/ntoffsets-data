@@ -1,0 +1,1 @@
+{"name":"_WORK_QUEUE_ITEM2","kind":"type","size":48,"members":[{"name":"QueueItem","type":"_KSUPER_QUEUE_ITEM","offset":0,"size":32,"bit_position":0,"bit_count":0},{"name":"WorkerRoutine","type":"void (*)()","offset":32,"size":8,"bit_position":0,"bit_count":0},{"name":"Parameter","type":"void *","offset":40,"size":8,"bit_position":0,"bit_count":0}]}

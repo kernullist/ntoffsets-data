@@ -1,0 +1,1 @@
+{"name":"_IOMMU_PASID_SETTING","kind":"enum","size":4,"constants":[{"name":"PasidSettingPreserve","value":0},{"name":"PasidSettingEnableAll","value":1},{"name":"PasidSettingEnablePasidOnly","value":2},{"name":"PasidSettingEnableDefaultOnly","value":3},{"name":"PasidSettingDisable","value":4},{"name":"PasidSettingMax","value":5}]}

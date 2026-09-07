@@ -1,0 +1,1 @@
+{"name":"_HEAP_LFH_SUBSEGMENT_STAT","kind":"type","size":2,"members":[{"name":"Index","type":"unsigned char","offset":0,"size":1,"bit_position":0,"bit_count":0},{"name":"Count","type":"unsigned char","offset":1,"size":1,"bit_position":0,"bit_count":0}]}

@@ -1,0 +1,1 @@
+{"name":"MI_NEXT_PTE_ACTION","kind":"enum","size":4,"constants":[{"name":"NextPteToTrim","value":0},{"name":"NextPteToAge","value":1},{"name":"NextPteToAccessClear","value":2},{"name":"NextPteMaximum","value":3}]}

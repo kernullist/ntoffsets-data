@@ -1,0 +1,1 @@
+{"name":"_RTL_FUNCTION_OVERRIDE_CAPABILITIES","kind":"type","size":90,"members":[{"name":"AMD64Capabilities","type":"unsigned char[45]","offset":0,"size":45,"bit_position":0,"bit_count":0},{"name":"AMD64KernelCapabilities","type":"unsigned char[45]","offset":45,"size":45,"bit_position":0,"bit_count":0}]}

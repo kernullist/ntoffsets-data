@@ -1,0 +1,1 @@
+{"name":"_EXT_IOMMU_FLUSH_CONTEXT","kind":"type","size":16,"members":[{"name":"Amd","type":"<unnamed-tag>","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"Intel","type":"<unnamed-tag>","offset":0,"size":16,"bit_position":0,"bit_count":0}]}

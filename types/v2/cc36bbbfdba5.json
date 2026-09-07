@@ -1,0 +1,1 @@
+{"name":"_KHETERO_CPU_QOS","kind":"enum","size":4,"constants":[{"name":"KHeteroCpuQosDefault","value":0},{"name":"KHeteroCpuQosHigh","value":0},{"name":"KHeteroCpuQosMedium","value":1},{"name":"KHeteroCpuQosLow","value":2},{"name":"KHeteroCpuQosMultimedia","value":3},{"name":"KHeteroCpuQosDynamic","value":4},{"name":"KHeteroCpuQosMax","value":4}]}

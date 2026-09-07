@@ -1,0 +1,1 @@
+{"name":"_LDR_HOT_PATCH_STATE","kind":"enum","size":4,"constants":[{"name":"LdrHotPatchBaseImage","value":0},{"name":"LdrHotPatchNotApplied","value":1},{"name":"LdrHotPatchAppliedReverse","value":2},{"name":"LdrHotPatchAppliedForward","value":3},{"name":"LdrHotPatchFailedToPatch","value":4},{"name":"LdrHotPatchStateMax","value":5}]}

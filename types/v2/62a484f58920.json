@@ -1,0 +1,1 @@
+{"name":"_DEVICE_DATA_SET_RANGE","kind":"type","size":16,"members":[{"name":"StartingOffset","type":"__int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"LengthInBytes","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

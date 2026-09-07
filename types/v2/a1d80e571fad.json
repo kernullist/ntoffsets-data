@@ -1,0 +1,1 @@
+{"name":"_WHEA_ERROR_SEVERITY","kind":"enum","size":4,"constants":[{"name":"WheaErrSevRecoverable","value":0},{"name":"WheaErrSevFatal","value":1},{"name":"WheaErrSevCorrected","value":2},{"name":"WheaErrSevInformational","value":3}]}

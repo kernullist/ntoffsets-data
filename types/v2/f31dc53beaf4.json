@@ -1,0 +1,1 @@
+{"name":"_GROUP_AFFINITY","kind":"type","size":16,"members":[{"name":"Mask","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Group","type":"unsigned short","offset":8,"size":2,"bit_position":0,"bit_count":0},{"name":"Reserved","type":"unsigned short[3]","offset":10,"size":6,"bit_position":0,"bit_count":0}]}

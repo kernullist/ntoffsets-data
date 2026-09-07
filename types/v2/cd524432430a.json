@@ -1,0 +1,1 @@
+{"name":"_TRANSFER_TYPE","kind":"enum","size":4,"constants":[{"name":"ReadTransfer","value":0},{"name":"WriteTransfer","value":1},{"name":"OtherTransfer","value":2}]}

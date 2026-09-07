@@ -1,0 +1,1 @@
+{"name":"_PROC_HYPERVISOR_STATE","kind":"enum","size":4,"constants":[{"name":"ProcHypervisorNone","value":0},{"name":"ProcHypervisorPresent","value":1},{"name":"ProcHypervisorPower","value":2},{"name":"ProcHypervisorHvCounters","value":3}]}

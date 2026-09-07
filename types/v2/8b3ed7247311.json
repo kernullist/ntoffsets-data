@@ -1,0 +1,1 @@
+{"name":"PPM_IDLE_BUCKET_TIME_TYPE","kind":"enum","size":4,"constants":[{"name":"PpmIdleBucketTimeInQpc","value":0},{"name":"PpmIdleBucketTimeIn100ns","value":1},{"name":"PpmIdleBucketTimeMaximum","value":2}]}

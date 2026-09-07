@@ -1,0 +1,1 @@
+{"name":"_PNP_REBALANCE_REASON","kind":"enum","size":4,"constants":[{"name":"RebalanceReasonUnknown","value":0},{"name":"RebalanceReasonRequirementsChanged","value":1},{"name":"RebalanceReasonNewDevice","value":2}]}

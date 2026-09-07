@@ -1,0 +1,1 @@
+{"name":"_PS_WAKE_REASON","kind":"enum","size":4,"constants":[{"name":"PsWakeReasonUser","value":0},{"name":"PsWakeReasonExecutionRequired","value":1},{"name":"PsWakeReasonKernel","value":2},{"name":"PsWakeReasonInstrumentation","value":3},{"name":"PsWakeReasonPreserveProcess","value":4},{"name":"PsMaxWakeReasons","value":5}]}

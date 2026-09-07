@@ -1,0 +1,1 @@
+{"name":"_KCONTINUE_TYPE","kind":"enum","size":4,"constants":[{"name":"KCONTINUE_UNWIND","value":0},{"name":"KCONTINUE_RESUME","value":1},{"name":"KCONTINUE_LONGJUMP","value":2},{"name":"KCONTINUE_SET","value":3},{"name":"KCONTINUE_INVALID","value":4},{"name":"KCONTINUE_LAST","value":4}]}

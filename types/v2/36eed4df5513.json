@@ -1,0 +1,1 @@
+{"name":"IORING_VERSION","kind":"enum","size":4,"constants":[{"name":"IORING_VERSION_INVALID","value":0},{"name":"IORING_VERSION_1","value":1},{"name":"IORING_VERSION_2","value":2},{"name":"IORING_VERSION_3","value":300},{"name":"IORING_VERSION_4","value":400}]}

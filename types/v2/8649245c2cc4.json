@@ -1,0 +1,1 @@
+{"name":"_XSAVE_AREA_HEADER","kind":"type","size":64,"members":[{"name":"Mask","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"CompactionMask","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0},{"name":"Reserved2","type":"unsigned __int64[6]","offset":16,"size":48,"bit_position":0,"bit_count":0}]}

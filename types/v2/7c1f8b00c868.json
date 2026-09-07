@@ -1,0 +1,1 @@
+{"name":"_KI_CALLBACK","kind":"enum","size":4,"constants":[{"name":"KiCallbackNmi","value":0},{"name":"KiFirstCallback","value":0},{"name":"KiCallbackBound","value":1},{"name":"KiCallbackSx","value":2},{"name":"KiCallbackCount","value":3}]}

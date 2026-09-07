@@ -1,0 +1,1 @@
+{"name":"KD_NAMESPACE_ENUM","kind":"enum","size":4,"constants":[{"name":"KdNameSpacePCI","value":0},{"name":"KdNameSpaceACPI","value":1},{"name":"KdNameSpaceAny","value":2},{"name":"KdNameSpaceNone","value":3},{"name":"KdNameSpaceMax","value":4}]}

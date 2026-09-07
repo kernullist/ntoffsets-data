@@ -1,0 +1,1 @@
+{"name":"_LPCP_NONPAGED_PORT_QUEUE","kind":"type","size":40,"members":[{"name":"Semaphore","type":"_KSEMAPHORE","offset":0,"size":32,"bit_position":0,"bit_count":0},{"name":"BackPointer","type":"_LPCP_PORT_OBJECT *","offset":32,"size":8,"bit_position":0,"bit_count":0}]}

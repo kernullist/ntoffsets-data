@@ -1,0 +1,1 @@
+{"name":"_MACHINE_CHECK_NESTING_LEVEL","kind":"enum","size":4,"constants":[{"name":"McheckNormal","value":0},{"name":"McheckNmi","value":1},{"name":"McheckNestingLevels","value":2}]}

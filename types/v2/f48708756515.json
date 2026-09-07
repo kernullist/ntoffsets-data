@@ -1,0 +1,1 @@
+{"name":"_BUS_EXTENSION_LIST","kind":"type","size":16,"members":[{"name":"Next","type":"void *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"BusExtension","type":"_PI_BUS_EXTENSION *","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

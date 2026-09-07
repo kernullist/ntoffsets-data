@@ -1,0 +1,1 @@
+{"name":"_MI_PAGELIST_LOCK_TYPES","kind":"enum","size":4,"constants":[{"name":"MiPageListPreviousGlobal","value":0},{"name":"MiPageListNextGlobal","value":1},{"name":"MiPageListPreviousSecondary","value":2},{"name":"MiPageListNextSecondary","value":3},{"name":"MiPageListPageMaximum","value":4}]}

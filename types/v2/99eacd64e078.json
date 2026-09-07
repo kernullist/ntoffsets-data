@@ -1,0 +1,1 @@
+{"name":"_POP_IRP_WATCHDOG_STATE","kind":"enum","size":4,"constants":[{"name":"IrpWatchdogStateDisabled","value":0},{"name":"IrpWatchdogStateEnabled","value":1},{"name":"IrpWatchdogStateCompleted","value":2}]}

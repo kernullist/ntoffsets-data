@@ -1,0 +1,1 @@
+{"name":"PROFILE_DEPARTURE_STYLE","kind":"enum","size":4,"constants":[{"name":"PDS_UPDATE_DEFAULT","value":1},{"name":"PDS_UPDATE_ON_REMOVE","value":2},{"name":"PDS_UPDATE_ON_INTERFACE","value":3},{"name":"PDS_UPDATE_ON_EJECT","value":4}]}

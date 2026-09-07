@@ -1,0 +1,1 @@
+{"name":"INTERRUPT_CONNECTION_TYPE","kind":"enum","size":4,"constants":[{"name":"InterruptTypeControllerInput","value":0},{"name":"InterruptTypeXapicMessage","value":1},{"name":"InterruptTypeHypertransport","value":2},{"name":"InterruptTypeMessageRequest","value":3}]}

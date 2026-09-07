@@ -1,0 +1,1 @@
+{"name":"JOB_OBJECT_IO_RATE_CONTROL_FLAGS","kind":"enum","size":4,"constants":[{"name":"JOB_OBJECT_IO_RATE_CONTROL_ENABLE","value":1},{"name":"JOB_OBJECT_IO_RATE_CONTROL_STANDALONE_VOLUME","value":2},{"name":"JOB_OBJECT_IO_RATE_CONTROL_VALID_FLAGS","value":3}]}

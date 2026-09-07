@@ -1,0 +1,1 @@
+{"name":"_XSDT","kind":"type","size":44,"members":[{"name":"Header","type":"_DESCRIPTION_HEADER","offset":0,"size":36,"bit_position":0,"bit_count":0},{"name":"Tables","type":"_LARGE_INTEGER[1]","offset":36,"size":8,"bit_position":0,"bit_count":0}]}

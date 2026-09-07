@@ -1,0 +1,1 @@
+{"name":"_HALP_DMA_TRANSLATION_TYPE","kind":"enum","size":4,"constants":[{"name":"DmaTranslationTypePassthrough","value":0},{"name":"DmaTranslationTypeSafePassthrough","value":1},{"name":"DmaTranslationTypeHybridPassthrough","value":2},{"name":"DmaTranslationTypeTranslate","value":3},{"name":"DmaTranslationTypeMax","value":4}]}

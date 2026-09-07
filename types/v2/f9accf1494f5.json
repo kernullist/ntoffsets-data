@@ -1,0 +1,1 @@
+{"name":"_EXP_POOL_MAINTENANCE_OP","kind":"enum","size":4,"constants":[{"name":"ExpPoolMaintenanceOpGCPaged","value":0},{"name":"ExpPoolMaintenanceOpGCNonPaged","value":1},{"name":"ExpPoolMaintenanceOpRebalance","value":2},{"name":"ExpPoolMaintenanceOpMax","value":3}]}

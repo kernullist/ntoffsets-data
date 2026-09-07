@@ -1,0 +1,1 @@
+{"name":"_MI_VAD_ALLOCATION_CELL_TYPE","kind":"enum","size":4,"constants":[{"name":"MiVadBottomUp","value":0},{"name":"MiVadPureReserved","value":1},{"name":"MiVadReserved64","value":2},{"name":"MiVadAllocationCellMaximum","value":3}]}

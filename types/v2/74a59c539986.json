@@ -1,0 +1,1 @@
+{"name":"_KI_FAILURE_INJECTION_POINT","kind":"enum","size":4,"constants":[{"name":"KiFailurePointForceSchedulingGroupReferenceFlush","value":0},{"name":"KiFailurePointForceScbReferenceFlush","value":1},{"name":"KiFailureInjectionPointCount","value":2}]}

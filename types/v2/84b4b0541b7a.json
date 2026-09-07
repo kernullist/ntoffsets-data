@@ -1,0 +1,1 @@
+{"name":"PDC_ACTIVITY_TYPE","kind":"enum","size":4,"constants":[{"name":"PdcNetwork","value":0},{"name":"PdcSystem","value":1},{"name":"PdcTimer","value":2},{"name":"PdcAllNetworks","value":3},{"name":"PdcInvalidActivity","value":4},{"name":"PdcMaxActivity","value":4}]}

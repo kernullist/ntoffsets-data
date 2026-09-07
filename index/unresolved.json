@@ -1,0 +1,1686 @@
+{
+ "0205f51103eaf186a5e65703b57d2f2ce984683b40482d495cff6578035031e3": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "020a37bc0a8dbf3d1a040afbb15eac0ffa6df6ccbd2b6a9eba421b7d31bcddfa": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.5856",
+  "channel": [
+   "21H2"
+  ],
+  "machine": "amd64"
+ },
+ "03430e05537b457c711f506ec6e64432bfc661b87c8fc18f3bec1a72dd86a50a": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "04227c025831ec08edd247244561656eec315d7cf2f1cc73b49965d6524b1f24": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.29558.1000",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "04c19e0beab4ed32b65f6ac65a305a65e3844a392bdef9cadd240640b48d7c39": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "05a44706d834cac6b10cecbdf5b80edd096abf05f0f7d1991971f6a4d718e804": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "075b3b96912ecb693b8973dc6d2f95903a7bcd31c11f48aa9567c2d673daa158": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8951",
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "0b02a3daa3cda3e2e226180c0f761e15675ebebbb51babd355c4cd1254685065": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "0bc4ce70370fbefeaaa8985454290843416b7005db57b1856e20c14ee97897cc": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "0c6bf686a650bb09c766a0729ad8fad8d649557d05b1586d71f20813d872cd41": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "0eed89b6f8d79bfe14cb4757744b5b91ccd0eca31ac7cecb6b22bf03afdb26f1": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.16299.98",
+  "channel": [
+   "1709"
+  ],
+  "machine": "arm64"
+ },
+ "0f5569512646a9f86983387a6cd28ba2ca31ef525ff667d670414ca1efc8f439": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.9267",
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "122e8a4f7d6b17c69fb29df91e2c876fd2c0595a1277cd3203f7dc1bfc2f0094": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "arm64"
+ },
+ "13829255b0115a1747fd5d4ba0cb95d568ba9f936167f9fc64f957f0cefe8083": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "21H2"
+  ],
+  "machine": "arm64"
+ },
+ "14b662679be878cadc03a8274ca2c638fff17985bc23dfbda012f8949337f9c9": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "1878b3aef56db720fda0307fe88d4283849b08af6a7a97d42f3cc8b10081f61b": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.450",
+  "channel": [
+   "2004"
+  ],
+  "machine": "amd64"
+ },
+ "1ba4f3f70ca20435527bf6a8ed84cdc86a08177c8d82d361b41cc6295ffa2775": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "1cc1ca1a6663de6e3996097d0a2f8e605ceb3e8c96f13aa1f39bf69d38865164": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "1d6fe3fa27aa9856b44bbedeb566bc3500d52abd4a7c401e358cdc2a21b6ea9e": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "arm64"
+ },
+ "1f248ab742164df3ef8b0d6114f0b5ae8f77fa1ffd7322e3da843692106d1438": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.3636",
+  "channel": [
+   "22H2"
+  ],
+  "machine": "amd64"
+ },
+ "20a88c008db6c4da32be82e300d764637b56db718cc96c1f35f6148c9201159b": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.9168",
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "2195bc1c3db8fb7075ef48b30ac504c8565f9f0ce5f79438b8c457e113141da7": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "21993ed0e763187d3ee64eda234e9425b21d4a2eee9c8175291007e34daf3dc2": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "21e850f88c93ee105263d59ac082f0f32f99a02af11a81f6fbd2759001639d46": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22000.527",
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "amd64"
+ },
+ "22d240bf75bfb1d3f5264c3c30753deb8b18c22e812bda4877a3233f5272d060": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "23ad7fbb18617ad6117e8c9de69826ff83cce2fd9480beb444033f31071c2955": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8772",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "23f74d794d23c8185a3b9831c850ec30bee382fc06e7f43293392d5439ef2257": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "249e44f0681bc1e8e87946cd959bf5d6732ed863f79116729f80ac9555b48b8e": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "20H2"
+  ],
+  "machine": "arm64"
+ },
+ "27b2697dd7750b1ffdc50faa209847bd83489bfcd52d6bf3d57a581872b61c80": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8313",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "29a9209bbe7b110059186352dfded18237df4875232a5df92df3adfac907c797": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "2b06edc93c3304a0bb8878d8c262a9c1f8f742f388823fa65a8b113c36723173": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8728",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "2cffdff50e744c76c10f395afbe9daac4bf3cc1135b631fb742d4c5f29e1729f": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "arm64"
+ },
+ "2ea1e2a2945fc4808b9fef1701bcfb5430bd1d7ccc9b9321986b12f807b53c37": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.18362.592",
+  "channel": [
+   "1903"
+  ],
+  "machine": "amd64"
+ },
+ "310c559f31acfdecf6450b2c534356b748fbbbc171cff10b2fa6951c4c3d46c9": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.14393.6252",
+  "channel": [
+   "1607"
+  ],
+  "machine": "amd64"
+ },
+ "321a4952cfec944561ea74d194dc7d9318e340d9c8306aecd57b2886106cff09": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.18362.357",
+  "channel": [
+   "1903"
+  ],
+  "machine": "amd64"
+ },
+ "346502c5443f161a564a3b718be980c4a8bf139ebb84821e8f61dbedc3e83d0b": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.1645",
+  "channel": [
+   "20H2"
+  ],
+  "machine": "amd64"
+ },
+ "356b44bee21ebabd0b6de3edfc43118f59b508438a860a6baf3276741f9b69d9": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.29585.1000",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "371a8db74753891a02571230d847028f4a87b340dc4089ebf197351bf835ef43": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "3abfbfbcaac258a678aed499aea98689930a2da0172bbf131767eb2ff396bb77": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "3cc4f692fccb6a5e95579168a91259ecec3e3d53cbf4b791553ce94888fc9728": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.18362.2039",
+  "channel": [
+   "1909"
+  ],
+  "machine": "amd64"
+ },
+ "3d2a9b05fd8de5c1c86e2ff48e25d5678017fcb09b8f47266bbb6d72bec8fd47": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.3758",
+  "channel": [
+   "22H2"
+  ],
+  "machine": "amd64"
+ },
+ "3edfa0d11465dcd3f003125fbd0a3276ff88808ad55f467af64ac0f0f5a1b2c9": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "3f0568e032be3e57f70e06a0cf79f41fd8350e70e0e8c82644f825f0c1d7255b": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "3f817ab90ea7edf2a50959de00383553e4828d93161ed3df1c472d195ff04e20": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.3770",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "41a275b345f1e9db1db0b064abcdf81f01b71890141f925b70a17af0b72d7ebe": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8104",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "442cb1b10a217d0bd5d2ff48e2026e2c31a179baf2e0dca8db56cc27d485448e": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.4499",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "444f994c94e8d1712580ebc475f6dda5f294e91d3a6dd2e0af1bdef8f9c12394": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "483f14bce87af1bede2f85cc084e8b99a9c84d7ff518c5fec136d16350e74090": {
+  "reason": "pdb_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8309",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "49d7b18e59f8e912c3cdcce5098625b4e8e774c453a6a0cf513185dd8b9634a1": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "4b41f08fbe3c3b276f64a503bf6d9596c4b204af2d25505d00067b6f2827f56b": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "4e8e10a28a4fb0baeabd16d7a44b68d2039ce85f7a51013b740578b7963804fe": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "arm64"
+ },
+ "4ecf03bc4a92a8eb6f90211d24f57189b13478299dbb951db527c763163aa0e8": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "511a3c5c227a9460989a391f1da5e8704e0d2d3a6eaa7555ac6c1831f5390720": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.1741",
+  "channel": [
+   "20H2"
+  ],
+  "machine": "amd64"
+ },
+ "52881da88e415f30b84e3a5cb1c8b4990f4451217bbac49a38bf2bee6776c20c": {
+  "reason": "pdb_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "5457613b8eb7763048e4b06065527236ca0412b8e14d1b50e93b4299a88119cc": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.771",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "54cdccea9d9d5558c8b0d880c4386a3ecf1e2879a6c8668dc3f8d481cf79eb31": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8155",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "594e5a166ed4c8cd2df85676d8e1a8c861b15fca985dd1ce3c59f8fafc8bd62a": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "arm64"
+ },
+ "5961b49dfbf2898f8fd1ea9b0f2ccc167a320671599809f748c6bb3ff700dd3e": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.1052",
+  "channel": [
+   "2004"
+  ],
+  "machine": "amd64"
+ },
+ "5b08b88fa4c5bdab322423d70ef670352687b4c6ee3e93f7de10a007a2d63119": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "5c7f71c5c8a299a62e1c9a9c99a8afbdb9567231113742d6d984033362060485": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "arm64"
+ },
+ "5cb5750f74f8fe37184037c11e5dc31d8d0e44297dbc28c9435503714eca872d": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.14393.3024",
+  "channel": [
+   "1607"
+  ],
+  "machine": "amd64"
+ },
+ "5d805b310ce7e6b7e19fd0894f9ef3e2f4b47d5cd5bdeefcec83bf7c9caf2768": {
+  "reason": "pdb_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.17134.83",
+  "channel": [
+   "1803"
+  ],
+  "machine": "arm64"
+ },
+ "5e5405212103083b90c657edc59ff0f0d3372a5e09bb19a9de3df0e26b32d134": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8514",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "652557b0a7d3f76e56a186fd0b6c864bc338c5c647c09be3f30cafcca4a96147": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.488",
+  "channel": [
+   "2004"
+  ],
+  "machine": "amd64"
+ },
+ "680ff9d7d9aa0b4b80099d88a651440ec56b0bc5288358d671720e2358e2e365": {
+  "reason": "undownloadable",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1507"
+  ],
+  "machine": "0x0000"
+ },
+ "69970a8280b366fb80270ca29afdf9e63784191e9c750c46f2dcba43ec883076": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "6aaf4d578d56cc4b4df8a3b75b250a6ce323f880d6686767f77dfd8cf75aa7c1": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "6bf128ae4f5759553adf43520bdb723bed49348f9ff18c4308c02bce73fedf90": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "6e2bbb4ea196339d3f7a47342c75f75c1a85e7678af5973bf0c68feb23d6b551": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.28000.7",
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "70440c426e7411511da931fa982068c30c6c6e1cf2567a7a27f7a33f93f8b105": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "71925d59b09dc4374a8446e8d6c4e341f5119ffe469901cf8551d4135d3faaf4": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "21H2"
+  ],
+  "machine": "arm64"
+ },
+ "7208be934ff2f1d2315224b3a14f2358d7d8d8cd071dd91fb8051ef87fa4a5b3": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "735578abdd743a5aad3395a31c90d36ffd5b8ca1ed5bfca4c95011c4cc7bc1e4": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-24H2"
+  ],
+  "machine": "arm64"
+ },
+ "73bf0b3c9e872ec8bb2bdd8dec1d458c6dfe67ce90673f15c405995beb38cef5": {
+  "reason": "pdb_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.16299.431",
+  "channel": [
+   "1709"
+  ],
+  "machine": "arm64"
+ },
+ "7461d345aac0c58329e16a826f0574c89e5d84282523e8400c0e9fca08003426": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1903"
+  ],
+  "machine": "arm64"
+ },
+ "75590de8cf4f9760425a17bd273f2521a290e4cec5aabf1c56f5c140f8b73f5f": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.28000.7",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "75a2cb13793929421d255e7c80e72204c1b56fce218626cbfc8f063796e0d5f9": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "760a5dec3130d28493d3952914ddef499b9e3d0ee2e2385f9b6689e74381eedf": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "764d9aab4beeeb415dd3c90be065de672caa787b65ae9a65468da8c3e931cd96": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "77854442a8282c13141983391304d552049a0543d34d613fb7fedc517b82840c": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "arm64"
+ },
+ "77bbf036c0bc5d7afc9c7bba78dc08b78ae57da2e2f0ca71383e6bebaae1342a": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "78ee32fd777f0bc53c2e1977270cea3d6d6b0bbdb95a8e2be9473b12d10e1996": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22621.4111",
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "amd64"
+ },
+ "79048cae41574b6ccf5e778fa45cecb799decf7d26ff59a422647cff7a7b0a72": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8106",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "7933a9c9e110b785b1665f67028e55e03d437ad4333e51c6fe0fdbec6e305d29": {
+  "reason": "pdb_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8575",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "7ada4ce3b32534111206d8d329e0238075b970c9139bdc4223a6836acb1e5d11": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.14393.5989",
+  "channel": [
+   "1607"
+  ],
+  "machine": "amd64"
+ },
+ "7fdb870ebddffce916fc7f6b44a45a3067f9f1b17d5fefbd70037bad204140bc": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-24H2"
+  ],
+  "machine": "arm64"
+ },
+ "80011fd4ef22328f9f55b67585667240b5d3239fc112515a27283560628a1ff7": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "8040a6e765b073cb7ca82b1098a83f6df59b736d8077c315aa1258b7f332b69a": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "x86"
+ },
+ "81f865de33ec9ed42a7410d8b1692c8f91784e90fda71cbc62ba694d6245dc66": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "848dfec66e4039beee5678b837adab3d3acb64e9b8717e26cc42c4ad78f9d410": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "860a72fd473add283a3bfde161b8719aa08bee24b12fdf06e268447d6985e0c9": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "877acedb8e7e6d7708dbda348712a3f6a30d4fb102205d79e6b51a2997665982": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "87a0ffa53c9610890d7f4c2a6898bebf74159377ae167c36d06680b092bbe36f": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "87b093efcd5052320585b0f42c755ae9ccf7674b03494adcebb98bff110d9601": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22621.608",
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "amd64"
+ },
+ "8972510632e652613f0c8354f5c90657ef31b30eb1010d66cca5616adcfd8ebc": {
+  "reason": "pdb_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.16299.461",
+  "channel": [
+   "1709"
+  ],
+  "machine": "arm64"
+ },
+ "89ac63f78215074b150eab559c179caf656751410ba2bd57e774d90c39d1ece7": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.18362.239",
+  "channel": [
+   "1903"
+  ],
+  "machine": "amd64"
+ },
+ "89cdaee934c5f0cb4edf15e4ba36ffd4d564c8cc983df375628958f23a772eb6": {
+  "reason": "pdb_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-26H1"
+  ],
+  "machine": "amd64"
+ },
+ "8aecc79e5c38acf43196ad915571087472767685d390702c655d576a5688c706": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "8b4e9f87f12a42254142299133919487be4da37af31cc5b3ae093ab72ce23ae4": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "8ba872a1f34da094925dd42b4a89f70028995558f3f89bd2c67fb5499006d0a0": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.8510",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "8f7fd74b70a03fbf100f7df1ba6d9dc6f46997d409e2ed2fd1302e7d2ccb83a7": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.17134.766",
+  "channel": [
+   "1803"
+  ],
+  "machine": "arm64"
+ },
+ "92908243cbb68bb964bbffddb835cdb1d9e7908a60494b8be1842738bc4fe8a7": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.22621.1265",
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "arm64"
+ },
+ "92a4dc119ea6fc87b403b5c9042bf2ff43d93c396ce9298eafbf1f67276a9139": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "9370898816fb62d702602680e5dc74b4d92ee4c78cc8708bd7f85c1462c76e82": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "93ae48b840d77f0918b5f2f1898e4b39ba57a5f3a1e6ae877cf430aa3448dff0": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.2686",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "960ddaea39d4f1967c5208ac08420fe358cf6ed434dfcc363a977a73f64a74f7": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1903"
+  ],
+  "machine": "arm64"
+ },
+ "98dd678d8083941adcb01eb854c3825b83465d79a23a5f18a97ffa4662039196": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "98f4576a4ac28be68ec5b99f063b482f28ee9d86b7e9da8d2cffcde41d705761": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "arm64"
+ },
+ "996c57888e96b33e2c57834d54a7e4b77611f1968216c5336386809833c8b742": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "9a35275da747178f740aedd7efea5da517a1d1582effcf9200aef3b4a2a51ba4": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "9a46f65608112d683243cf069be8d7c9ff6091ceb8fd42016fed22446027fdb7": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "arm64"
+ },
+ "9c6370e0d19d865831a7c6a03d190b3369f1247d5bc865764b9895805722155b": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "arm64"
+ },
+ "9e6d591330fd2616e69bc1d062eeb7587eaadcc1c93d73824f3d6af1abfcaf98": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "arm64"
+ },
+ "9f7d61b8cbe603e5c9b41ada8cea92c4d540aecb9d7d86a06c25689486f0e3c5": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "a0f51fe4ecc161d02c75d0b7d411656771bce2f09422bed12cda59141c6e240c": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.10240.18244",
+  "channel": [
+   "1507"
+  ],
+  "machine": "amd64"
+ },
+ "a17ca44d6dae0c8526ee74c9f40a4fa789fc77345dd989777300bde8dc9933c9": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "a4156d099bb3b715b2a9e8b2029e1de04524c06aed5153d590de3564cd7c01c8": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "a4a93d88d348af6a739ffae33ab20504c681d2b727c257dc19a12599336c82f6": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.16299.194",
+  "channel": [
+   "1709"
+  ],
+  "machine": "amd64"
+ },
+ "a60011835565c079a054597e55b63bea054fbc2c04fe034952d75d897218ad12": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.19041.7177",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "a779978161299ccbb2df1616f7bb5f74d7aec2070e22d76825a03341be10676a": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.1566",
+  "channel": [
+   "20H2"
+  ],
+  "machine": "amd64"
+ },
+ "a88993ba6dfe671beb98f07beb9fa70b9d6aaff017b8d6db4aecbd4eafc16bfc": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "a9a69cf8377c6447d24f524937cc00e3321f296080b41a3a8efcf8dcbc8c5eca": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "ab40631764282ca30d5dfacf660adb84a636bbccb27d6bb8486a5e8414d5ad48": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.6893",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "abd61195df8b9d7a80881d54f0a1e8bfa0ef29acf1cdb5a293dd13ea3be25bb5": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22000.613",
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "amd64"
+ },
+ "aed72fcf5f4a84efbd25bf790515e58eb0d531c8d09f496229f0151275996276": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.17763.4377",
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "aff764feb6bb7044127c6f627ed606ce868842b1464ccd5a6db9a41b60e921ea": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "2004"
+  ],
+  "machine": "arm64"
+ },
+ "b271e8ad9982a3f06b0dae057a238de931b83b992b125f30985aa8e360041534": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "b4f2e9233dfcaff50c9c76c4a3923dc6571b8461e74931c433a1d8d0390327a7": {
+  "reason": "pdb_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "b7f3b67126cdcd5b27fb94ecf8e6055df759254f9e66069e95ec7673821c8adf": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "b8fd33ce406dc85734bd74f8f61c8153a08f9c3ce69fda999322e56044e1ebae": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "b995849dc84640b9b027e98fff83025e1259529eeee4430155b09688557e148a": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.19041.610",
+  "channel": [
+   "2004"
+  ],
+  "machine": "arm64"
+ },
+ "bae859ed58bf22ef7e8453276bca8e581326f724ac2a53e08dc9c93ab428e141": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1903"
+  ],
+  "machine": "arm64"
+ },
+ "bafb9e539e10b250c3859d164a77b29722801644b8d852bbd259acd1ab678703": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "bb1c1b75568b9f957598782f87cbc802a48f766a0bec94971c5034693842eeef": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "bbd07ff41926c659a592881953f82a3c3451c16919c983f04cbe4aa14070b9ae": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1903"
+  ],
+  "machine": "arm64"
+ },
+ "bc4b64553cd9b81e2fd5e382fd4024d4eacc04417682c02b468900ea79883238": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.2364",
+  "channel": [
+   "20H2"
+  ],
+  "machine": "amd64"
+ },
+ "bcfff8de7aff2ab7a5c620078a630c4f85ca64576a48e12a3ed6a92c819adaa7": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "be5d77b2506b5599841ee05dba017dc7780edc482c13e73c65d085a33aff98a1": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "c134ca19e1566b588a34e74131d8c56be93c3a1c88a17d7726140d180dbfcab4": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "c225692c96a33e22fe7d5741ac7f588c2ee43ebcc8b4e2fc007d1ebfab21b320": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "c2d30f3dabadfd3b17dbf731088b6821c899791c7b87ee036adb198bf9929c66": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "c36f61a0c5e27dabadd424e5420b68a0a32284ceba305d740e7714bf0441b096": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22000.832",
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "amd64"
+ },
+ "c815273dfb6d4ad1dd67060d76db0ff4d65eff726e0e2178aff11f9ac00c31ca": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "c8f16a5e9641d8f5fdfbe17bdd0e5d693844c7fd3bb9f6538569752dd3f3fdf7": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "c97fa5d5341e3d51e07712abe013958aeae48c3c3c75402764a84a0da2fa2ceb": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22000.708",
+  "channel": [
+   "11-21H2"
+  ],
+  "machine": "amd64"
+ },
+ "cad22ccf5189f55a2dc91cb7abc3f18a638a318d5cc7629aa14f676c3568d77b": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22621.5037",
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "amd64"
+ },
+ "cbe590af2ebaf0163f395413339e39c65dfefcd36114f183eb6576b2c9aff183": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "ce58acf1beaf9fba579430d71cdf80b64b5e7012730ec0d941a437f2cb483844": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-24H2"
+  ],
+  "machine": "arm64"
+ },
+ "d0051bfdd4c3622d135b754a9df8b4f7a458e3072be8ac94e798b649758593bb": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.804",
+  "channel": [
+   "2004"
+  ],
+  "machine": "amd64"
+ },
+ "d46ec6128f45f627c891e1ee3c077879e0ff9a862310890bb48a4aceadaca57d": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22621.7376",
+  "channel": [
+   "11-23H2"
+  ],
+  "machine": "amd64"
+ },
+ "d60e326dc98595391e516bbe5aa7fded7a343ac8a011507418a13a3580478ce4": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "d70274429b40c5c90c5136b65f34ecdc0e988d7d3d277cb683d57bd04fa426d6": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22621.1635",
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "amd64"
+ },
+ "d84fb94215e47d4e4eaf4a359085dc65b73d47517fbcb5a1f8c986e828437eb2": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "d9ad2292070c2673c44d6027031e9eae4fc4b66c0acf0dfc1d2155e167219b91": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.6",
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "daa6d6c6f4601a60ddf427dc191ff183ff996c014d3d75d9bae7a832861fd868": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "dac6998442bdbe11bbf85833c9ed14e64a855fa803def4f70e958383da0ea8b2": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "dcbb965ec88e67b10b941c593326d889d9ecb64782a62afc2897f1e9e8b0da47": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.26100.1882",
+  "channel": [
+   "11-24H2"
+  ],
+  "machine": "amd64"
+ },
+ "dd42e6c31c6c8e2388d1de839ca7324d559614076ab9506d28f7fc8544a7dd9f": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8951",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "de3d08d924b2c9f18b135f15552d0ada0dc42c2e6bef3d3f59133102ed7dc3d2": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.6",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "dfa0a5c68c0ba3d79309e4cd88165528d884d36aa60444351744e25134bd5237": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.17134.2208",
+  "channel": [
+   "1803"
+  ],
+  "machine": "arm64"
+ },
+ "e1762cef319c423575865fd7847a31a8d3d93814341df732ece0ef7faceff587": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.592",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "e26ca995a31d2d941fed3e52956b8b9bb9b8bfe9fbb6aa9e42e9956459b70fa2": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.9267",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "e30725a3172f5520ca2ee901fa3395cfbc9249e53e3391965be5348669b0c024": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1909"
+  ],
+  "machine": "arm64"
+ },
+ "e314cac88e0360f539904134d055b170d45102a7a582f30eb8d835c47271b77d": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.1490",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "e40b74571521d1f63d387ae441b3296e505a29550be75c770851832f064d2f40": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.22621.4036",
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "amd64"
+ },
+ "e63bc43f4b7a8cb960e28cdd47eec412cbcbe3661685d67c777fdf87728a13d1": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-24H2"
+  ],
+  "machine": "arm64"
+ },
+ "e6f5f84dbca8747a812e5c3fdadf656b0a0b996fe17c6074b67c02b097dbfaa4": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.9223",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "e81947ccdd4bfdfbc6e9bf7fee3ebd18e8bd484ee0d21409af83a0684933cbd3": {
+  "reason": "pdb_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.16299.251",
+  "channel": [
+   "1709"
+  ],
+  "machine": "arm64"
+ },
+ "ea2d17f5af47cc7c042c795e6ff0161bde6a4cc05087b4bf9303da2a1fb34160": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.18362.175",
+  "channel": [
+   "1903"
+  ],
+  "machine": "amd64"
+ },
+ "eb10c2a1de5e6178e1d7e8eca8f42ecb6af7b4d0269514ec6c5bcdae228a8451": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.17763.4644",
+  "channel": [
+   "1809"
+  ],
+  "machine": "amd64"
+ },
+ "ec4faac438267647439c961b27a05193b12e90f202ecf5f3addd3fdafc958904": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "20H2"
+  ],
+  "machine": "arm64"
+ },
+ "ec7c0b066362587ea6661034dd2979879aec2cf07b09b062f733301324e2f037": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "ecdae0b6b7ff34f5e97ab05003924826e803568db3cea2fd2defefdeaea2aad4": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.2",
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
+ },
+ "ee979cd6ee2fa0603544d766452170bbf7b593d2cbb3cd819cc65f2c17f469cf": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1903"
+  ],
+  "machine": "arm64"
+ },
+ "ef2b9ae2685aa4be5dc96b34a616d94c113bb7b327d0d38f95e1a3f826620e1c": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "x86"
+ },
+ "efa8b991da1d71990645baf9f867679b3710d3d480a1e5a5a937f602e30e851c": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "1809"
+  ],
+  "machine": "arm64"
+ },
+ "efbc7f3eb3cd767a1bd9fd82329461b66e98ffe4fa67d3937f59887ac1e8bf2d": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.1706",
+  "channel": [
+   "20H2"
+  ],
+  "machine": "amd64"
+ },
+ "f1c7036d48cbb27dad769c4f6b535d9fad90e43a233ed64bfc9ad5301af6e99c": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-22H2"
+  ],
+  "machine": "arm64"
+ },
+ "f73dfd42d3e6a5936bc44974cfa8fa99843301fcf47db5a946b72f194f924da3": {
+  "reason": "pdb_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.16299.402",
+  "channel": [
+   "1709"
+  ],
+  "machine": "arm64"
+ },
+ "f73e63363688e9fdf22d01050a1f8c7acbfb76c0f5a9ed9d30afdcfa438d9c51": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "f86d7d2d4766fa4fefbe474d65c9691014c6448c79d60fd648e10d89d4c3eb62": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.29560.1000",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "f9e6cef7987c5b23d71ca298756b07bba447b9935683708a926f286eea00f29e": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.26100.8968",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "fb1992c1a8a261f7b8b22db440e7a83e7da93edb54fcb7a793b0811a28ab16a0": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "22H2"
+  ],
+  "machine": "arm64"
+ },
+ "fbb140f592c8d7b4b2b3bec77eed705d047919a1fc86bcf38775d16e11a5d2e3": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": "10.0.29639.1000",
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
+ "fbc33eceb13c591c1081cdc8f86981c622ed6494de6ab2690d262ccb6fbb4ca6": {
+  "reason": "pdb_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": "10.0.16299.522",
+  "channel": [
+   "1709"
+  ],
+  "machine": "arm64"
+ },
+ "fcc3110832f78aff7a40ea7da3558c8d03d0959432f40c10ffb1004f0b7f64dc": {
+  "reason": "binary_404",
+  "dataset": "arm64/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "11-23H2"
+  ],
+  "machine": "arm64"
+ },
+ "fd167e59573a944b4170e9e167861484a74d79d84c39202bc7d87890a85f175b": {
+  "reason": "binary_404",
+  "dataset": "ga/ntoskrnl.exe",
+  "version": "10.0.19041.928",
+  "channel": [
+   "2004",
+   "21H1"
+  ],
+  "machine": "amd64"
+ }
+}

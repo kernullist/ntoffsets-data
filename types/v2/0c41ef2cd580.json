@@ -1,0 +1,1 @@
+{"name":"_EXT_IOMMU_INTERRUPT_REMAPPING_POLICY","kind":"enum","size":4,"constants":[{"name":"ExtIommuInterruptRemappingPolicyDisable","value":0},{"name":"ExtIommuInterruptRemappingPolicyEnableLoose","value":1},{"name":"ExtIommuInterruptRemappingPolicyEnableStrict","value":2}]}

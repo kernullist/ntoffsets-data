@@ -1,0 +1,1 @@
+{"name":"_RTL_TICK_LOCK","kind":"type","size":8,"members":[{"name":"AsULong64","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Busy","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":1},{"name":"Ticks","type":"unsigned __int64","offset":0,"size":8,"bit_position":1,"bit_count":63}]}

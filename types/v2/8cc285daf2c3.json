@@ -1,0 +1,1 @@
+{"name":"_TRIAGE_PNP_DEVICE_COMPLETION_REQUEST","kind":"type","size":24,"members":[{"name":"ListEntry","type":"_LIST_ENTRY","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"DeviceNode","type":"_TRIAGE_DEVICE_NODE *","offset":16,"size":8,"bit_position":0,"bit_count":0}]}

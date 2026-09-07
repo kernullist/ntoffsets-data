@@ -1,0 +1,1 @@
+{"name":"_RTL_HP_FEATURE_ENABLEMENT","kind":"enum","size":4,"constants":[{"name":"RtlHpFeatureEnablementDefault","value":0},{"name":"RtlHpFeatureEnablementEnable","value":1},{"name":"RtlHpFeatureEnablementDisable","value":2},{"name":"RtlHpFeatureEnablementCustom","value":3},{"name":"RtlHpFeatureEnablementMax","value":4}]}

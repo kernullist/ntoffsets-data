@@ -1,0 +1,1 @@
+{"name":"_WHEA_RECOVERY_CONTEXT_ERROR_TYPE","kind":"enum","size":4,"constants":[{"name":"WheaRecoveryContextErrorTypeMemory","value":1},{"name":"WheaRecoveryContextErrorTypePmem","value":2},{"name":"WheaRecoveryContextErrorTypeMax","value":3}]}

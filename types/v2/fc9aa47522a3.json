@@ -1,0 +1,1 @@
+{"name":"_PO_IRP_MANAGER","kind":"type","size":16,"members":[{"name":"DeviceIrpQueue","type":"_PO_IRP_QUEUE","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"SystemIrpQueue","type":"_PO_IRP_QUEUE","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

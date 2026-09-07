@@ -1,0 +1,1 @@
+{"name":"wil_UsageReportingMode","kind":"enum","size":4,"constants":[{"name":"wil_UsageReportingMode_Default","value":0},{"name":"wil_UsageReportingMode_SuppressPotential","value":1},{"name":"wil_UsageReportingMode_SuppressImplicit","value":2}]}

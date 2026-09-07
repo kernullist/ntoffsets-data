@@ -1,0 +1,1 @@
+{"name":"_MI_LOCK_ACQUIRE_TYPE","kind":"enum","size":4,"constants":[{"name":"MiAcquireExclusive","value":0},{"name":"MiAcquireExclusiveAutoExpand","value":1},{"name":"MiAcquireShared","value":2},{"name":"MiAcquireSharedAutoExpand","value":3}]}

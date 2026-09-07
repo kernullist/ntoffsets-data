@@ -1,0 +1,1 @@
+{"name":"_RTL_CONTEXT_OPERATION_FLAGS","kind":"enum","size":4,"constants":[{"name":"RTL_CONTEXT_OPERATION_METADATA_ONLY","value":1},{"name":"RTL_CONTEXT_OPERATION_REPLACE_XSTATE","value":2},{"name":"RTL_CONTEXT_OPERATION_VALID_FLAGS","value":3}]}

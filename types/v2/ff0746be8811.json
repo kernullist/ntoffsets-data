@@ -1,0 +1,1 @@
+{"name":"_HUGE_PFN_NUMBER","kind":"type","size":8,"members":[{"name":"BasePage","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":22},{"name":"EntireValue","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"PageCount","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":22}]}

@@ -1,0 +1,1 @@
+{"name":"_MMWSLE_FREE_ENTRY","kind":"type","size":8,"members":[{"name":"MustBeZero","type":"unsigned __int64","offset":0,"size":8,"bit_position":0,"bit_count":1},{"name":"NextFree","type":"unsigned __int64","offset":0,"size":8,"bit_position":28,"bit_count":36},{"name":"PreviousFree","type":"unsigned __int64","offset":0,"size":8,"bit_position":1,"bit_count":27}]}

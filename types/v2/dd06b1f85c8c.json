@@ -1,0 +1,1 @@
+{"name":"_VI_POOL_ENTRY","kind":"type","size":16,"members":[{"name":"InUse","type":"_VI_POOL_ENTRY_INUSE","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"NextFree","type":"_SINGLE_LIST_ENTRY *","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"PageHeader","type":"_VI_POOL_PAGE_HEADER","offset":0,"size":12,"bit_position":0,"bit_count":0}]}

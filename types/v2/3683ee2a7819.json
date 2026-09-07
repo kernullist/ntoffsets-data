@@ -1,0 +1,1 @@
+{"name":"_WNF_NODE_HEADER","kind":"type","size":4,"members":[{"name":"NodeTypeCode","type":"unsigned short","offset":0,"size":2,"bit_position":0,"bit_count":0},{"name":"NodeByteSize","type":"unsigned short","offset":2,"size":2,"bit_position":0,"bit_count":0}]}

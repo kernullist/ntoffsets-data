@@ -1,0 +1,1 @@
+{"name":"_KTIMER2_COLLECTION","kind":"type","size":16,"members":[{"name":"Tree","type":"_RTL_RB_TREE","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"NextDueTime","type":"unsigned __int64","offset":8,"size":8,"bit_position":0,"bit_count":0}]}

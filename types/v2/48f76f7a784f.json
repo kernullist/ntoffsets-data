@@ -1,0 +1,1 @@
+{"name":"_CM_INDEX_HINT_BLOCK","kind":"type","size":8,"members":[{"name":"Count","type":"unsigned long","offset":0,"size":4,"bit_position":0,"bit_count":0},{"name":"HashKey","type":"unsigned long[1]","offset":4,"size":4,"bit_position":0,"bit_count":0}]}

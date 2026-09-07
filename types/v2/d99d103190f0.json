@@ -1,0 +1,1 @@
+{"name":"KTM_STATE","kind":"enum","size":4,"constants":[{"name":"KKtmUninitialized","value":0},{"name":"KKtmInitialized","value":1},{"name":"KKtmRecovering","value":2},{"name":"KKtmOnline","value":3},{"name":"KKtmRecoveryFailed","value":4},{"name":"KKtmOffline","value":5}]}

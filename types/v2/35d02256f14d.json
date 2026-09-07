@@ -1,0 +1,1 @@
+{"name":"_KSEARCH_RANK_TYPE","kind":"enum","size":4,"constants":[{"name":"KiSearchRankPerformance","value":0},{"name":"KiSearchRankEfficiency","value":1},{"name":"KiSearchRankMax","value":2}]}

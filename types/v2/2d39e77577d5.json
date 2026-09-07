@@ -1,0 +1,1 @@
+{"name":"HSTORAGE_TYPE","kind":"enum","size":4,"constants":[{"name":"Stable","value":0},{"name":"Volatile","value":1},{"name":"InvalidStorage","value":2}]}

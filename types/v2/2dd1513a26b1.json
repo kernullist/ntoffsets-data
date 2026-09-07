@@ -1,0 +1,1 @@
+{"name":"_MI_LARGE_PAGE_REBUILD_WAIT_BLOCK","kind":"type","size":32,"members":[{"name":"Next","type":"_MI_LARGE_PAGE_REBUILD_WAIT_BLOCK *","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"Gate","type":"_KGATE","offset":8,"size":24,"bit_position":0,"bit_count":0}]}

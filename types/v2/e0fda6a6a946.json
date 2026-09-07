@@ -1,0 +1,1 @@
+{"name":"_TOKEN_TYPE","kind":"enum","size":4,"constants":[{"name":"TokenPrimary","value":1},{"name":"TokenImpersonation","value":2}]}

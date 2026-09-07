@@ -1,0 +1,1 @@
+{"name":"_KTHREAD_PPM_POLICY","kind":"enum","size":4,"constants":[{"name":"ThreadPpmDefault","value":0},{"name":"ThreadPpmThrottle","value":1},{"name":"ThreadPpmSemiThrottle","value":2},{"name":"ThreadPpmNoThrottle","value":3},{"name":"MaxThreadPpmPolicy","value":4}]}

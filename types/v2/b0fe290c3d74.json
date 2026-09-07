@@ -1,0 +1,1 @@
+{"name":"MI_WORKING_SET_EVENT_TYPES","kind":"enum","size":4,"constants":[{"name":"WorkingSetsPeriodicAging","value":0},{"name":"WorkingSetsPeriodicHardLimitAging","value":1},{"name":"WorkingSetsPeriodicTrimming","value":2},{"name":"WorkingSetsPeriodicHardLimitTrimming","value":3},{"name":"WorkingSetsInstantTrimming","value":4},{"name":"WorkingSetsEventMaximum","value":5}]}

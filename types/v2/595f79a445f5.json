@@ -1,0 +1,1 @@
+{"name":"_FAN_NOISE_ZONES_","kind":"enum","size":4,"constants":[{"name":"FanNoiseZoneLow","value":0},{"name":"FanNoiseZoneMedium","value":1},{"name":"FanNoiseZoneMediumHigh","value":2},{"name":"FanNoiseZoneHigh","value":3},{"name":"FanNoiseZoneLast","value":3},{"name":"FanNoiseZoneMax","value":4}]}

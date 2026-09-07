@@ -1,0 +1,1 @@
+{"name":"_MI_AVAILABLE_PAGE_WAIT_TYPES","kind":"enum","size":4,"constants":[{"name":"AvailablePagesWaitLow","value":0},{"name":"AvailablePagesWaitHigh","value":1},{"name":"AvailablePagesWaitVeryHigh","value":2},{"name":"AvailablePagesWaitMaximum","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_KPROCESSOR_STATE","kind":"type","size":1472,"members":[{"name":"SpecialRegisters","type":"_KSPECIAL_REGISTERS","offset":0,"size":240,"bit_position":0,"bit_count":0},{"name":"ContextFrame","type":"_CONTEXT","offset":240,"size":1232,"bit_position":0,"bit_count":0}]}

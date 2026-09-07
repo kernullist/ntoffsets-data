@@ -1,0 +1,1 @@
+{"name":"_MI_MEMORY_HIGHLOW","kind":"enum","size":4,"constants":[{"name":"MiMemoryHigh","value":0},{"name":"MiMemoryLow","value":1},{"name":"MiMemoryHighLow","value":2}]}

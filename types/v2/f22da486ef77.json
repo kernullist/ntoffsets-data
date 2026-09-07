@@ -1,0 +1,1 @@
+{"name":"wil_FeatureEnabledStateKind","kind":"enum","size":4,"constants":[{"name":"wil_FeatureEnabledStateKind_All","value":0},{"name":"wil_FeatureEnabledStateKind_Service","value":1},{"name":"wil_FeatureEnabledStateKind_User","value":2},{"name":"wil_FeatureEnabledStateKind_Test","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_IOMMU_PAGE_FAULT_PRIVATE_DATA","kind":"type","size":24,"members":[{"name":"Data","type":"unsigned __int64[2]","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"DataSize","type":"unsigned char","offset":16,"size":1,"bit_position":0,"bit_count":0}]}

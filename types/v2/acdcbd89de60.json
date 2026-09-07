@@ -1,0 +1,1 @@
+{"name":"_DEVICE_WAKE_DEPTH","kind":"enum","size":4,"constants":[{"name":"DeviceWakeDepthNotWakeable","value":0},{"name":"DeviceWakeDepthD0","value":1},{"name":"DeviceWakeDepthD1","value":2},{"name":"DeviceWakeDepthD2","value":3},{"name":"DeviceWakeDepthD3hot","value":4},{"name":"DeviceWakeDepthD3cold","value":5},{"name":"DeviceWakeDepthMaximum","value":6}]}

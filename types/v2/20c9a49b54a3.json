@@ -1,0 +1,1 @@
+{"name":"_PROCESSOR_PRESENCE","kind":"enum","size":4,"constants":[{"name":"ProcessorPresenceNt","value":0},{"name":"ProcessorPresenceHv","value":1}]}

@@ -1,0 +1,1 @@
+{"name":"_FREQUENCY_QOS_BUCKET","kind":"enum","size":4,"constants":[{"name":"FrequencyQosBucketHigh","value":0},{"name":"FrequencyQosBucketLow","value":1},{"name":"FrequencyQosBucketTotal","value":2},{"name":"FrequencyQosBucketMax","value":3}]}

@@ -1,0 +1,1 @@
+{"name":"_ETW_PRIV_HANDLE_DEMUX_TABLE","kind":"type","size":32,"members":[{"name":"Tree","type":"_RTL_RB_TREE","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"Lock","type":"_EX_PUSH_LOCK","offset":16,"size":8,"bit_position":0,"bit_count":0},{"name":"SequenceNumber","type":"unsigned short","offset":24,"size":2,"bit_position":0,"bit_count":0}]}
