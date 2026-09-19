@@ -774,7 +774,7 @@
   "machine": "amd64"
  },
  "7ada4ce3b32534111206d8d329e0238075b970c9139bdc4223a6836acb1e5d11": {
-  "reason": "fetch_error",
+  "reason": "binary_404",
   "dataset": "ga/ntoskrnl.exe",
   "version": "10.0.14393.5989",
   "channel": [
@@ -1152,7 +1152,7 @@
   "machine": "amd64"
  },
  "abd61195df8b9d7a80881d54f0a1e8bfa0ef29acf1cdb5a293dd13ea3be25bb5": {
-  "reason": "fetch_error",
+  "reason": "binary_404",
   "dataset": "ga/ntoskrnl.exe",
   "version": "10.0.22000.613",
   "channel": [
