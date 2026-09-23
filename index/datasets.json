@@ -1,7 +1,7 @@
 {
  "arm64/ntoskrnl.exe": {
-  "known": 686,
-  "downloadable": 686,
+  "known": 688,
+  "downloadable": 688,
   "channels": {
    "1709": 55,
    "1803": 56,
@@ -14,14 +14,14 @@
    "11-22H2": 74,
    "22H2": 29,
    "21H2": 44,
-   "11-24H2": 60,
+   "11-24H2": 61,
    "11-23H2": 15,
-   "11-26H1": 15
+   "11-26H1": 16
   }
  },
  "ga/ntoskrnl.exe": {
-  "known": 1143,
-  "downloadable": 1142,
+  "known": 1145,
+  "downloadable": 1144,
   "channels": {
    "1507": 121,
    "1803": 68,
@@ -40,16 +40,16 @@
    "22H2": 30,
    "11-22H2": 75,
    "11-23H2": 16,
-   "11-24H2": 61,
+   "11-24H2": 62,
    "11-25H2": 1,
-   "11-26H1": 15
+   "11-26H1": 16
   }
  },
  "insider/ntoskrnl.exe": {
-  "known": 427,
-  "downloadable": 427,
+  "known": 433,
+  "downloadable": 433,
   "channels": {
-   "builds": 427
+   "builds": 433
   }
  }
 }
