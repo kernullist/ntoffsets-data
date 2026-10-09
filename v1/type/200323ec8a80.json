@@ -1,0 +1,1 @@
+{"name":"CVariant_MemoryCompressionHCAtLowPriority","kind":"enum","size":4,"constants":[{"name":"CVariant_MemoryCompressionHCAtLowPriority_None","value":0},{"name":"CVariant_MemoryCompressionHCAtLowPriority_L3","value":1},{"name":"CVariant_MemoryCompressionHCAtLowPriority_L5","value":2}]}
