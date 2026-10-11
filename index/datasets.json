@@ -46,10 +46,10 @@
   }
  },
  "insider/ntoskrnl.exe": {
-  "known": 448,
-  "downloadable": 448,
+  "known": 440,
+  "downloadable": 440,
   "channels": {
-   "builds": 448
+   "builds": 440
   }
  }
 }
