@@ -1,0 +1,1 @@
+{"name":"REGISTRY_FEATURE_ENABLED_STATE","kind":"enum","size":4,"constants":[{"name":"REGISTRY_FEATURE_ENABLED_STATE_DEFAULT","value":0},{"name":"REGISTRY_FEATURE_ENABLED_STATE_DISABLED","value":1},{"name":"REGISTRY_FEATURE_ENABLED_STATE_ENABLED","value":2}]}
