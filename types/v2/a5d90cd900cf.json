@@ -1,0 +1,1 @@
+{"name":"reg_FeatureEnabledState","kind":"enum","size":4,"constants":[{"name":"reg_FeatureEnabledState_Default","value":0},{"name":"reg_FeatureEnabledState_Disabled","value":1},{"name":"reg_FeatureEnabledState_Enabled","value":2}]}
