@@ -443,7 +443,7 @@
  "479f6f07d9bee87e6db9f4054e99a57933977571cba1e6120d13810abcbf2c38": {
   "reason": "binary_404",
   "dataset": "insider/ntoskrnl.exe",
-  "version": null,
+  "version": "10.0.26100.9807",
   "channel": [
    "builds"
   ],
@@ -1046,7 +1046,7 @@
  "9a35275da747178f740aedd7efea5da517a1d1582effcf9200aef3b4a2a51ba4": {
   "reason": "binary_404",
   "dataset": "insider/ntoskrnl.exe",
-  "version": null,
+  "version": "10.0.26100.1746",
   "channel": [
    "builds"
   ],
