@@ -1458,7 +1458,7 @@
   "machine": "arm64"
  },
  "d70274429b40c5c90c5136b65f34ecdc0e988d7d3d277cb683d57bd04fa426d6": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "ga/ntoskrnl.exe",
   "version": "10.0.22621.1635",
   "channel": [
