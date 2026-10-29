@@ -126,7 +126,7 @@
   "machine": "arm64"
  },
  "13829255b0115a1747fd5d4ba0cb95d568ba9f936167f9fc64f957f0cefe8083": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "arm64/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -432,7 +432,7 @@
   "machine": "amd64"
  },
  "44ae9444579ca9200a98c3df198e2fcd12c1c7e3e6261123258cbdcf494a07c4": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -558,7 +558,7 @@
   "machine": "amd64"
  },
  "5c7f71c5c8a299a62e1c9a9c99a8afbdb9567231113742d6d984033362060485": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "arm64/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -592,6 +592,15 @@
    "builds"
   ],
   "machine": "amd64"
+ },
+ "632e3f8e70248902f94f17e094bb53d31556d9d84b758e719aae461fe1a3a6bb": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
  },
  "652557b0a7d3f76e56a186fd0b6c864bc338c5c647c09be3f30cafcca4a96147": {
   "reason": "binary_404",
@@ -664,6 +673,15 @@
    "21H2"
   ],
   "machine": "arm64"
+ },
+ "71be168d7872900ef5272e81ff66b3c775e267030d6e6be0ceda4aa3adddef38": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
  },
  "7208be934ff2f1d2315224b3a14f2358d7d8d8cd071dd91fb8051ef87fa4a5b3": {
   "reason": "binary_404",
@@ -747,7 +765,7 @@
   "machine": "arm64"
  },
  "77bbf036c0bc5d7afc9c7bba78dc08b78ae57da2e2f0ca71383e6bebaae1342a": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -828,7 +846,7 @@
   "machine": "arm64"
  },
  "848dfec66e4039beee5678b837adab3d3acb64e9b8717e26cc42c4ad78f9d410": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -900,7 +918,7 @@
   "machine": "amd64"
  },
  "8aecc79e5c38acf43196ad915571087472767685d390702c655d576a5688c706": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -1160,15 +1178,6 @@
   ],
   "machine": "arm64"
  },
- "a955a949cea0f1798f0bda3e35ade25f014a049887cd25e903abe7b89c962a98": {
-  "reason": "binary_404",
-  "dataset": "insider/ntoskrnl.exe",
-  "version": null,
-  "channel": [
-   "builds"
-  ],
-  "machine": "x86"
- },
  "a9a69cf8377c6447d24f524937cc00e3321f296080b41a3a8efcf8dcbc8c5eca": {
   "reason": "binary_404",
   "dataset": "arm64/ntoskrnl.exe",
@@ -1195,6 +1204,15 @@
    "11-21H2"
   ],
   "machine": "amd64"
+ },
+ "acca911ffcaa0232c84a26c54d59dc2419e2a7378c889bab0a149a351060c1de": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
  },
  "aed72fcf5f4a84efbd25bf790515e58eb0d531c8d09f496229f0151275996276": {
   "reason": "binary_404",
@@ -1322,6 +1340,15 @@
   ],
   "machine": "amd64"
  },
+ "c0c2eb84d587894d8b2d8402594c790331f1fb44b4f550c43904f43d8ef4240b": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
  "c134ca19e1566b588a34e74131d8c56be93c3a1c88a17d7726140d180dbfcab4": {
   "reason": "binary_404",
   "dataset": "arm64/ntoskrnl.exe",
@@ -1340,6 +1367,15 @@
   ],
   "machine": "arm64"
  },
+ "c2410afd649de51ee2f78a28ae4ddaa0a95c34a390fab490d96ccfcc3c3011ce": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "amd64"
+ },
  "c2d30f3dabadfd3b17dbf731088b6821c899791c7b87ee036adb198bf9929c66": {
   "reason": "binary_404",
   "dataset": "insider/ntoskrnl.exe",
@@ -1357,6 +1393,15 @@
    "11-21H2"
   ],
   "machine": "amd64"
+ },
+ "c587419fa5a81e86a1fe8536f4cf8470fb525cfc1f263d45ad01d8e9fcc318f1": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
  },
  "c815273dfb6d4ad1dd67060d76db0ff4d65eff726e0e2178aff11f9ac00c31ca": {
   "reason": "binary_404",
@@ -1557,7 +1602,7 @@
   "machine": "arm64"
  },
  "e11a88667582c73340b8ab7e54f6ea579e67b8cb62914f1720f5452dfa85ea23": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -1600,6 +1645,15 @@
    "1809"
   ],
   "machine": "amd64"
+ },
+ "e3ad7c73dfb6da4501d75bd4eed8dfacf6604d117b72a5de16549c2afa732dcb": {
+  "reason": "binary_404",
+  "dataset": "insider/ntoskrnl.exe",
+  "version": null,
+  "channel": [
+   "builds"
+  ],
+  "machine": "arm64"
  },
  "e40b74571521d1f63d387ae441b3296e505a29550be75c770851832f064d2f40": {
   "reason": "binary_404",
@@ -1800,7 +1854,7 @@
   "machine": "arm64"
  },
  "fd167e59573a944b4170e9e167861484a74d79d84c39202bc7d87890a85f175b": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "ga/ntoskrnl.exe",
   "version": "10.0.19041.928",
   "channel": [
