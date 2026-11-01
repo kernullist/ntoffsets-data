@@ -1,0 +1,1 @@
+{"name":"_HV_OUTPUT_QUERY_GPA_RANGE","kind":"type","size":16,"members":[{"name":"AlwaysPinnedSubranges","type":"_HV_OUTPUT_QUERY_GPA_RANGE_SUBRANGES","offset":0,"size":16,"bit_position":0,"bit_count":0},{"name":"HeatHintBeneficialSubranges","type":"_HV_OUTPUT_QUERY_GPA_RANGE_SUBRANGES","offset":0,"size":16,"bit_position":0,"bit_count":0}]}
