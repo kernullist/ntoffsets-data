@@ -54,7 +54,7 @@
   "machine": "arm64"
  },
  "05a44706d834cac6b10cecbdf5b80edd096abf05f0f7d1991971f6a4d718e804": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -423,7 +423,7 @@
   "machine": "amd64"
  },
  "442cb1b10a217d0bd5d2ff48e2026e2c31a179baf2e0dca8db56cc27d485448e": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "ga/ntoskrnl.exe",
   "version": "10.0.17763.4499",
   "channel": [
@@ -845,15 +845,6 @@
   ],
   "machine": "arm64"
  },
- "85d4eb703ceffd27a7d6d92e6fc67e4ede5930666911fea55109709ae33319cc": {
-  "reason": "pdb_404",
-  "dataset": "insider/ntoskrnl.exe",
-  "version": null,
-  "channel": [
-   "builds"
-  ],
-  "machine": "amd64"
- },
  "860a72fd473add283a3bfde161b8719aa08bee24b12fdf06e268447d6985e0c9": {
   "reason": "binary_404",
   "dataset": "arm64/ntoskrnl.exe",
@@ -1035,7 +1026,7 @@
   "machine": "arm64"
  },
  "98f4576a4ac28be68ec5b99f063b482f28ee9d86b7e9da8d2cffcde41d705761": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "arm64/ntoskrnl.exe",
   "version": null,
   "channel": [
@@ -1188,7 +1179,7 @@
   "machine": "arm64"
  },
  "ab40631764282ca30d5dfacf660adb84a636bbccb27d6bb8486a5e8414d5ad48": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "ga/ntoskrnl.exe",
   "version": "10.0.17763.6893",
   "channel": [
@@ -1305,7 +1296,7 @@
   "machine": "arm64"
  },
  "bc4b64553cd9b81e2fd5e382fd4024d4eacc04417682c02b468900ea79883238": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "ga/ntoskrnl.exe",
   "version": "10.0.19041.2364",
   "channel": [
@@ -1467,7 +1458,7 @@
   "machine": "amd64"
  },
  "d46ec6128f45f627c891e1ee3c077879e0ff9a862310890bb48a4aceadaca57d": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": "10.0.22621.7376",
   "channel": [
@@ -1566,7 +1557,7 @@
   "machine": "arm64"
  },
  "e11a88667582c73340b8ab7e54f6ea579e67b8cb62914f1720f5452dfa85ea23": {
-  "reason": "binary_404",
+  "reason": "fetch_error",
   "dataset": "insider/ntoskrnl.exe",
   "version": null,
   "channel": [
