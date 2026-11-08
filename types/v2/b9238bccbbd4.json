@@ -1,0 +1,1 @@
+{"name":"IORING_BATCH_SIGNAL_TYPE","kind":"enum","size":4,"constants":[{"name":"IORING_BATCH_SIGNAL_NONE","value":0},{"name":"IORING_BATCH_SIGNAL_EVENT","value":1},{"name":"IORING_BATCH_SIGNAL_SEMAPHORE","value":2},{"name":"IORING_BATCH_SIGNAL_DXGX_FENCE","value":3}]}
