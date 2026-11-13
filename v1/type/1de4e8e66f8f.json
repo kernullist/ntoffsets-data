@@ -1,0 +1,1 @@
+{"name":"_SEP_AGENT_ID_DESCRIPTOR","kind":"type","size":32,"members":[{"name":"Lock","type":"_EX_PUSH_LOCK","offset":0,"size":8,"bit_position":0,"bit_count":0},{"name":"ReferenceCount","type":"__int64","offset":8,"size":8,"bit_position":0,"bit_count":0},{"name":"Value","type":"_UNICODE_STRING","offset":16,"size":16,"bit_position":0,"bit_count":0}]}
