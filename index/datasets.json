@@ -21,8 +21,8 @@
   }
  },
  "ga/ntoskrnl.exe": {
-  "known": 1163,
-  "downloadable": 1162,
+  "known": 1165,
+  "downloadable": 1164,
   "channels": {
    "1507": 121,
    "1803": 68,
@@ -42,15 +42,15 @@
    "11-22H2": 75,
    "11-23H2": 19,
    "11-24H2": 64,
-   "11-25H2": 2,
-   "11-26H1": 19
+   "11-25H2": 3,
+   "11-26H1": 20
   }
  },
  "insider/ntoskrnl.exe": {
-  "known": 447,
-  "downloadable": 447,
+  "known": 451,
+  "downloadable": 451,
   "channels": {
-   "builds": 447
+   "builds": 451
   }
  }
 }
