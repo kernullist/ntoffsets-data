@@ -215,15 +215,6 @@
   ],
   "machine": "amd64"
  },
- "1f645b1a505b8fce90c6f40cb0492507eef0643ef6e22db8b760e3dba83f4ada": {
-  "reason": "pdb_404",
-  "dataset": "insider/ntoskrnl.exe",
-  "version": null,
-  "channel": [
-   "builds"
-  ],
-  "machine": "amd64"
- },
  "20a88c008db6c4da32be82e300d764637b56db718cc96c1f35f6148c9201159b": {
   "reason": "binary_404",
   "dataset": "insider/ntoskrnl.exe",
