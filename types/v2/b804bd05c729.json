@@ -1,0 +1,1 @@
+{"name":"_RTL_FEATURE_ENABLED_STATE","kind":"enum","size":4,"constants":[{"name":"FeatureEnabledStateDefault","value":0},{"name":"FeatureEnabledStateDisabled","value":1},{"name":"FeatureEnabledStateEnabled","value":2}]}
